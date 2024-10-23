@@ -1,0 +1,57 @@
+
+import boto3
+from config import *
+import json
+from botocore.exceptions import ClientError
+import sys
+import time
+import logging
+
+
+class AWSUtils:
+
+    def __init__(self, access_key, secret_key):
+        self.access_key = access_key
+        self.secret_key = secret_key
+    
+    @staticmethod
+    def animate():
+        chars = r"|/—\|"
+        for char in chars:
+            sys.stdout.write('\r' + 'Please Wait ...' + char)
+            time.sleep(.1)
+            sys.stdout.flush()
+    
+    def create_iam_role(self, iam_role):
+        
+        pass
+    
+    def create_redshift_cluster(self, role_arn):
+        """
+        This function creates a cluster on your behalf
+        :param role_arn:
+        :return:
+        """
+        
+        pass
+    
+    def delete_redshift_cluster(self):
+        """
+        This function deletes a cluster
+        :return:
+        """
+       
+        pass
+    
+    def list_bucket(self, bucket_name, prefix):
+        """
+        This function lists files in a bucket
+        :param bucket_name:
+        :param prefix:
+        :return: files
+        """
+        
+        pass
+    
+    def detach_iam_role(self, iam_role):
+       pass

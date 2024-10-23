@@ -1,0 +1,1001 @@
+employee_id,name,country,department,is_manager
+2fe9966e-64e2-4f36-9621-0bebd66c493f,Sara Freeman,UK,Sales,False
+592a47d0-cd68-406f-bb55-0fe689efef88,Tanisha Vullo,United Kingdom,Engineering,False
+ae1e2f30-52f7-47c1-82ee-94975ce03132,William Sakai,Ireland,IT,False
+29bc290f-ccbb-4d32-bff2-2c4761a87614,Celia Grady,UK,Engineering,False
+f9dc6bed-c871-4bf1-9813-ade55a4d9f4d,Gregory Williams,USA,Sales,False
+8bd56c51-d907-4043-8cd6-59391a5503da,Chuck Turner,United Kingdom,Sales,False
+482fb665-8af3-4386-83e4-a7d012ab8b1c,Chris Rastorfer,United Kingdom,Finance,False
+c39b5bbc-bb58-4457-81f0-f9de849e4c62,Tony Wegener,Ireland,Sales,False
+8ad82ef3-fd61-48e7-8c1f-66cc7ff5f160,Haywood Henson,Brazil,Marketing,False
+2c82230d-f60a-4d5a-aad7-e87e1a94e7b4,Alyssa Morgan,Brazil,Engineering,False
+9c64f23f-03bd-4783-8277-28ade62b7bf6,James Packer,UK,HR,False
+d8de9967-d19a-4999-87ee-c254b6a29a98,Jack Gross,USA,Finance,False
+aec95046-5f10-41e2-93be-129cb1fd3b46,Frederick Larabee,USA,Engineering,False
+873f11ab-2932-4686-8680-b6ff780c187f,Gladys Miller,United Kingdom,Finance,False
+3e8bd7be-675e-4a31-bbbd-5e985df1da84,Scott Robertson,UK,HR,False
+84127aa9-a94f-46f2-ac8f-d9d6152fe94b,Clinton Mcateer,Ireland,ENG,True
+9dee8577-1694-4350-ba91-d4489b2b0913,Peter Dunn,Brazil,Marketing,False
+f5826f97-9760-4f6b-84ab-682670da384f,David Diggs,UK,Sales,False
+92e48b80-244b-405e-ba82-36c01f63067e,Kevin Legendre,Ireland,Finance,True
+3338e999-5392-4c1c-9bb6-cc057ae5070e,Gene Pearsall,USA,Finance,False
+04bf8593-5ee2-4623-9aaf-1071a0c2de6d,Fran Lechler,Brazil,ENG,False
+ddba7048-17e9-430d-9aae-e701670372d6,Anna Obrien,Ireland,IT,False
+cbfd0d22-a6c5-4957-99bc-89492f0f7284,Loren Snow,USA,IT,False
+19ca1221-cff6-47c7-8578-04db4c513649,Sally Bedwell,USA,Sales,False
+2f9a2600-2687-4799-9319-82aada795fcd,Dorris Libel,Brazil,Engineering,False
+5ee4b571-a245-4209-9d05-5f369d5afb13,Jane Bennett,UK,Sales,False
+177a8225-0cc0-407d-b5c5-5b7edaa2f0da,Walter Sweet,Ireland,Marketing,False
+e08fadff-5739-4977-a7bf-d6ed3fccc558,Kelly Panther,United Kingdom,HR,False
+f5a8d0d2-81e0-4726-8080-dc48dfadab20,Charles Jenkins,Ireland,IT,False
+042c5bee-f939-47f0-bfd3-8220137af2de,Linda Dupas,United Kingdom,IT,False
+39896560-4644-4d9c-b492-12b6d2b71409,Ralph Cano,Brazil,Sales,False
+c9b80b82-52d0-44fe-bec1-a4a475c17b97,Dorothy Philips,United Kingdom,Engineering,False
+c8c46956-fc1b-47a7-b06e-74de98548c4c,Percy Cipolla,USA,Marketing,False
+294cb744-67b3-41b7-bf97-357b2bb467ab,Jennifer Horn,USA,Sales,True
+201dde8c-98e4-4706-881d-f5e4f4bff579,Lois Huff,Ireland,Sales,False
+0ae81843-49e0-41bc-b6d1-553d8deaf6a0,Charles Hickman,UK,ENG,False
+ae44567b-a76b-401f-9e55-325ee90ddaa2,Shannon Dunkleberger,USA,Engineering,False
+804335e0-7724-4ca7-9ed1-50cc297615ca,Beatrice Cartwright,USA,Marketing,False
+5e247ebf-38d1-48e3-a739-2209606b06c6,Young Elder,United Kingdom,Marketing,False
+e93ee2e7-d03c-4f07-b0fd-96bbd089c8fa,Mark Finzel,USA,IT,False
+2a0fc7a4-1c48-4af7-b0e6-237da3a6b4d2,Doreen Agro,United Kingdom,ENG,False
+86abc841-18a3-45dc-92cd-e8d324ef774f,Andy Mcguire,Brazil,Sales,False
+c6122cc6-d5f4-42e3-921e-8bc13388a414,Michael Rodriquez,United Kingdom,Finance,False
+7aaa19bf-ab24-4cd2-8b51-b0dd580ca192,John Mauch,Brazil,Sales,False
+dc40d4c5-f89b-4d0d-bf9d-d298e3a6160c,Peggy Price,Brazil,ENG,False
+0dae7a8b-dd0a-4d85-9392-3c20f548a1da,Melissa Sagedahl,United Kingdom,Engineering,False
+837babfc-573e-4d6b-9d06-3f30f0565d15,Julie Heep,USA,Marketing,False
+9f1f226e-e923-47f7-82de-91a4e9569652,Patricia Robles,USA,Finance,False
+fb177ba7-9cce-4b72-a503-d8db81f5fcdf,Michael Humphrey,Ireland,Sales,False
+b79a1bc8-5833-4853-8935-f87718d4146a,Darlene Walls,UK,HR,False
+455cf378-7d63-4e4e-ab46-87b1424606ad,Daniel Lauseng,Ireland,Finance,False
+1447ccdb-beb2-4b5c-aea1-b0cb5fcc82ce,Iliana Fried,Ireland,Sales,False
+bd853cb4-1ae1-4d58-abfa-c3e1df82207d,Dale Cole,Brazil,HR,False
+3c983e6d-d784-4f5d-a17f-8f8906c4a926,Nanette Crockett,Ireland,IT,True
+05729047-c11b-4c3f-9d7a-1b090d8128ad,Rudy Adams,USA,ENG,True
+dcd454b0-a3eb-49e3-8e99-27c5acdaa8bb,Edward Demme,United Kingdom,Sales,False
+d1ef25ec-548e-4bff-972f-8f5a23303adb,Nicholas Peoples,Brazil,HR,False
+64a92ac4-1db6-497b-9bf2-f03beaf3670c,Kelley Miller,United Kingdom,Finance,False
+0b81eb29-a331-43eb-9aeb-8056baaa12c5,Audrey Holsey,USA,Finance,False
+be558ded-f4d1-4312-a23b-e5cfbf361c64,Howard Perry,Ireland,IT,False
+8e99f687-d856-4da1-a077-f9aeca535cd6,Billy Butler,Ireland,HR,False
+f1afde6d-3b06-4218-839a-c5f84dd764c0,Paul Pastore,United Kingdom,Sales,False
+fb27522a-138b-4d09-9f68-91b37d87ab73,Jose Shin,Brazil,ENG,False
+c88513f6-f580-472e-8fac-39d0126ea909,Angela Schmidt,UK,HR,False
+1b40a4b7-eb87-4eb7-b59a-b4c697c207da,Kenneth Sims,United Kingdom,Engineering,False
+28c7b3ae-8a72-487d-b544-2cd165f7eecd,Jamar Price,United Kingdom,IT,False
+fc5694d6-f1ea-4175-8810-3b2052facbcb,Ashley Foskett,Brazil,Engineering,False
+fd6303f5-3dab-45d4-b99e-568498561d9a,Anne Daniels,Brazil,Engineering,True
+e5c368b3-bc99-44ac-a6eb-45c16c79dda3,Jose Sargent,Brazil,Engineering,True
+e99da795-75ed-441a-b0de-65005f0a4f1e,Nicole Henderson,Ireland,ENG,False
+b1ebd2c8-71b5-4633-9532-a95275f1abbb,Ellen Romine,United Kingdom,HR,False
+43442860-f228-406a-9df5-baa68eab1b59,Phyllis Wolfe,UK,IT,False
+605f7561-03e8-4d1d-84f7-5ca7aeb0d2b7,Heidi Anderson,USA,Finance,False
+88465780-91eb-4bac-b7e5-8f29d8964f4b,Hazel Drew,UK,IT,False
+04f34a49-b306-410e-abe1-1017666be8a5,Martha Correia,Brazil,Marketing,False
+715ae352-fb8d-4cf6-b51c-a2ef6ab74f8f,Betty Clarke,United Kingdom,ENG,False
+36f4e208-ec7f-4cc4-b0b6-af0c189c0e4b,Steven Desrochers,Brazil,Sales,False
+3258590f-cce4-4fdc-b6d2-b7a7d22ac8e6,Kris Wilmore,UK,ENG,True
+42b2657d-c8c8-46a4-a9fc-cc924ae8eb44,Robert Weiss,Brazil,HR,False
+d7ad5bc6-eec3-4988-aa0d-27d9f5629207,Kenny Mcilvain,Ireland,Finance,False
+24a68a53-3b05-4f3b-ae00-74e32381b900,Mary King,USA,Sales,False
+cf88dd28-262e-45f7-b766-8491bc7ee709,Tammy Dawson,United Kingdom,Finance,False
+5d10474c-7c7f-4553-b769-2736abd85c9c,Frances Tram,United Kingdom,Marketing,False
+fb05eeaf-a308-4757-91c6-86213d5d2e3b,Alisa Armstrong,United Kingdom,Finance,True
+2c776852-f420-4824-b7ab-18306bee7f03,Willie Cortes,UK,Engineering,False
+3ce2ffc3-6373-4ce7-b151-b3a4d584c322,Robert Golden,USA,HR,False
+307f4cac-3e58-465b-bdd9-93918134dc30,Brooke Sexton,Ireland,Marketing,False
+0e6b449e-df2b-448a-a99e-a16bac1dcf2a,Sylvia Wright,UK,Finance,False
+e38d8c57-f76a-42a5-a5a8-7a1e41bd6edf,Angela Kester,Brazil,ENG,False
+b1b74a3a-191f-4bc9-a13e-e7a108e2e400,Lisa Conway,Ireland,Engineering,False
+8dca60d8-9c58-4aca-96e6-99c8d982812d,Wendy Medrano,Brazil,Finance,False
+15589356-9f94-4d85-b144-4b23859a35ff,Randy Sanges,United Kingdom,Finance,False
+008d24f9-d04b-436f-b579-0ffd6d9b65f4,Carlos Browne,UK,Sales,False
+ec3eafa8-418b-4945-8e9c-0e5ab31537ab,Sylvie Harris,Brazil,Marketing,False
+e027534c-5115-41e9-82d6-88c2eade7ef1,Sophie Case,USA,ENG,False
+9ae2e032-86ac-438f-9fc9-1dd06841759f,Lois Barnard,USA,IT,False
+ad7fad70-d340-4f1c-8b16-a0c08ce1931f,Meagan Garber,United Kingdom,Engineering,True
+05c15ee6-be04-4b32-ad63-30aa29f0111e,Daniel Cook,United Kingdom,Sales,False
+c16c1ef3-4b55-4027-bf7c-f61c57584042,Elizabeth Atwell,USA,Engineering,False
+ed697269-df79-4335-a11b-56ddd17b01a2,Shirley Goble,Brazil,ENG,False
+35fb08df-469a-4689-a07a-46dd83ecacf3,Pamela Perkins,Brazil,Engineering,False
+a636106b-873f-4e5e-9bf8-2d353c64c5a9,Larry Flaherty,USA,IT,False
+de137592-b6a6-4439-ad8f-e1c023f8a145,Efrain Smith,Ireland,Marketing,False
+f20d221f-6dd9-4c83-9895-74f2d24303c2,Richard Brewer,Ireland,IT,True
+69e0ba3b-2918-42fd-abaa-90074f4faf86,Theodore Garcia,Brazil,IT,False
+17145073-0cb6-4b64-8a97-5f59c2ab4cc2,David Morrison,UK,Sales,False
+bc6c0f9b-90a8-4c40-af9b-cc4de451b1e9,Christina Franklin,Ireland,IT,False
+8dcb1a86-18d3-46b2-a058-0e7cb7d539a4,Robert Edgar,Brazil,ENG,False
+a1c1c1de-e151-49da-b752-ba355d09c034,Josue Clark,United Kingdom,HR,False
+62643dab-9b54-405e-bfb6-534755dd623d,Jim Dilday,Brazil,Sales,True
+75cab62d-ffdf-4d50-8e30-3c18164238f8,Melissa Clary,USA,HR,False
+670f4537-6048-4388-a3c7-b189c063f8cc,Christopher Harris,Ireland,IT,False
+d8e4b4fa-8429-47c7-b831-7c90c5c54c88,Richard Vance,Ireland,Sales,False
+b0142057-804d-4518-add0-070f06c681a8,Fidel Boyer,USA,Sales,False
+d0bf2732-7339-4f5f-bda8-67986d591b86,Jeffrey Karban,United Kingdom,IT,False
+2dd358cf-6239-41ff-8223-0a3de17e3395,Arturo Shorey,UK,HR,False
+cdbfdb23-17f9-41e2-af97-a35f248c5b0f,Gena Lopez,USA,IT,False
+a52128d5-814f-401e-99fd-b44cb126cb88,Andrew Boyte,Brazil,ENG,False
+c6211b54-4661-4927-97a7-319ad26216d9,Ida Lucas,UK,Finance,False
+64e108b3-709d-4653-adfe-9b4cab0bd591,Gina Richardson,Ireland,Finance,False
+741c5faf-b299-44fc-a0df-bc8afe4caa16,Sandra Jones,Ireland,ENG,False
+4423b786-7abc-4892-9779-eaa47497b311,Wallace Caudill,USA,Engineering,False
+7f5f5ef9-824f-4b7a-b079-934305a6c578,Roger Nunez,United Kingdom,Sales,False
+42e4f93e-88fb-4983-b8b6-bff790a408ee,Katie Pike,United Kingdom,Finance,True
+be557dd0-c305-4716-8f5b-15f14dcd841f,William Igbinosun,Ireland,IT,False
+3974d695-9d63-419d-b2c3-c3b82862e0e5,Shaun Inman,Ireland,Sales,False
+38618385-3b24-4473-bc0c-854e4da4f349,Glenn Lindsey,USA,IT,False
+dba631f6-a851-4121-98ef-577f6fa7e0f7,Jennifer Velez,USA,Marketing,False
+4c94c31e-8dfe-4fe5-b318-fd36d8c42542,Philip Ingram,United Kingdom,Sales,False
+eb7d7823-92e0-48e7-8472-34f1587ef8d5,Peggy Garand,USA,Marketing,False
+10f2710b-c792-44e7-9972-43a546497e19,Polly Campbell,Brazil,Finance,True
+6ac1460d-da35-400d-8564-50b4307dc318,Joel Henry,Brazil,Engineering,False
+56ab2329-8d0f-4d74-abb3-e035a1ea5023,Jewel Lawson,UK,Sales,False
+54525eda-366c-442d-824e-96d7535bc2bb,Mary Anderson,Ireland,Marketing,False
+5b64bef4-8164-4b36-830d-76051cf72221,Mae Bates,Ireland,HR,False
+407105b7-bbfd-4a0f-82ab-2e44e7b79ede,Brett Costello,UK,HR,True
+49a76529-8af8-48db-9aee-d04feb78de01,Ruth Silva,UK,HR,False
+6dc79a70-7adf-4433-89fd-1006b8524090,George Crist,Brazil,ENG,False
+03a9f8b6-8681-4767-86d6-202597472f20,Danielle Chung,Brazil,IT,False
+98889ae9-322f-4382-b2df-e800aadd6c73,Charles Barnes,Ireland,ENG,True
+1937d757-1e8b-436d-aa65-e80de1883155,Kenneth Sherman,United Kingdom,Sales,False
+dc35f52f-03fa-443a-8527-d8baa7d4cf74,Lori Lundgren,United Kingdom,Marketing,False
+ac20695c-e781-4f77-9024-6f3c19c6a1f0,Candace Barela,UK,Sales,False
+68866476-1d14-4b72-ab89-45e84101ee50,Michael Anderson,United Kingdom,Marketing,False
+3f3016d3-ebe7-43bb-a310-be942de92b15,Denise Armstrong,Ireland,Finance,False
+da6f4e00-a82e-4115-82f4-d91ec2c4e968,Terence Williams,United Kingdom,Marketing,True
+4a07900b-48e3-40f7-ae3e-2a47eaaf531c,Antonio Welk,Ireland,IT,False
+4c332aac-3def-43ab-b6da-2d5345dc6847,Mark Pierce,Ireland,ENG,False
+13e742de-16a6-4f45-b561-98791af6c01b,Paul Carson,United Kingdom,ENG,False
+900e9d5a-edf8-4770-8766-6e71f2fece82,Maria Stuart,Brazil,ENG,True
+a4931002-c7d4-4e4d-a358-fb5e61bd89b6,Nicole Smith,Brazil,Engineering,False
+18f98361-5f1a-4b83-8e61-59baf4884d89,Hal Morgan,Ireland,HR,False
+52dc1dad-7a39-458e-904a-917f54274024,Michael Jones,Ireland,HR,True
+0b214698-4187-4cd2-a1ad-02db07cf6c6c,Mary Browder,Brazil,IT,False
+e09f4caa-5b04-4f7a-ba33-33ba0081170d,Sharon Fortin,USA,ENG,False
+086685cb-710b-4125-8a68-4d5d07af5bf8,Walter Perino,United Kingdom,Finance,False
+a492613e-ef54-4c70-80ed-c7aa4b9cb0e4,Loretta Guzman,United Kingdom,IT,False
+bd750d28-1944-4222-9d1c-eeb0cef167e9,Joy Kirkpatrick,USA,ENG,False
+99b0d03d-619a-471e-908e-04e50fed0999,Peggy Abreu,United Kingdom,HR,False
+3c852d45-b1d7-4c6a-b20a-e35cb15ecc26,Amy Kim,United Kingdom,Finance,False
+568b0754-9b7e-41b5-891b-5db0f2d15434,Janet Smith,Brazil,IT,False
+99424f9c-30fb-41b8-b895-c9e3763ba8db,Jean Yousef,Brazil,Sales,False
+1fb47d1b-bdc7-4eb0-b96c-ff7782941039,Victor Villa,USA,Finance,False
+adfe130a-1cb0-4744-aeaf-b2570ecd4893,Leonard Bower,United Kingdom,Finance,False
+35e8620f-cca1-42e9-a41d-0060a68acc6a,Shari Duggan,USA,IT,False
+29e71169-54d1-49de-bac0-a86442d0fabf,Edna Moore,UK,Marketing,False
+962c82b8-c310-4176-84f6-df8e53426f45,Frederick Oakes,Ireland,Marketing,False
+55449130-c7c8-47e6-9b13-90cc517aa663,Ora Hurt,Ireland,Sales,False
+98ec3a9d-9636-49d7-8ad7-ecce19d055ab,Walter Bauer,USA,Finance,False
+1a30ed84-05c3-41a9-b2d7-7dd2002995c5,Jane Caskey,United Kingdom,ENG,False
+5e9139a0-93ea-4788-b9ae-cbe3a38e04ee,Nicholas Leahy,UK,ENG,False
+222653bf-79f8-4e05-bff2-b784d67c3917,James Herda,Brazil,HR,False
+f1c8d014-a836-462e-a4bd-833b6c246abb,Gloria Briggs,United Kingdom,Engineering,False
+ab73ae9f-b9dd-4e0f-b421-f5411788abf3,Luis Bunn,Brazil,ENG,False
+41eb3b45-bad0-4c54-9e4a-3cb42621d1c8,Kelli Schlindwein,USA,Marketing,False
+b75b54e5-3a42-4891-9549-766529084819,Herminia Boyce,Ireland,Marketing,False
+c3e42335-fe09-4429-b2a6-d1fdfd496f99,Oralee Clemons,UK,Marketing,False
+8a4216c9-9d65-4db1-af6b-aafc06578c51,Robert Erwin,United Kingdom,Engineering,True
+42691129-a7fa-4270-a700-8fd462833149,Jacqueline Moore,Brazil,IT,False
+e00bb159-a65b-4afb-9940-128e6ee44185,Michael Treisch,United Kingdom,Sales,True
+8e28b2ed-c740-42e4-8258-7c475d302c00,Clifford Ortiz,USA,Sales,False
+8e3a5661-4009-4de0-bc72-9ce9e6ce37fc,Jason Streeter,USA,Engineering,False
+87302968-b71f-486c-a3f2-a12b82cd0a32,Christopher Hunsaker,United Kingdom,HR,False
+e106fc54-0702-4d30-81f8-ad915eaa27b4,Anna Stacy,Brazil,Engineering,False
+4895ae73-e8c7-40cc-951e-8882c0ccfcf5,Marcia Dupree,United Kingdom,Marketing,False
+2887e563-01fc-428e-ad0d-6325c9327976,Jerry Rivera,USA,ENG,False
+3f0e16b0-6c65-47f8-808a-61cb95145031,Christine Rose,UK,Sales,False
+4bd9983c-c891-4730-99e8-3fdab66d3bd6,Wally Wasmund,Ireland,Sales,False
+55afb899-3741-4687-8fb2-31afb1802051,Thomas Caravati,Brazil,IT,False
+be4eede7-b360-4d12-bbb9-029f24b77bc1,Paul Marinello,United Kingdom,HR,False
+481949a9-1f36-44b6-b081-1772ac6e97b1,Gregory Boucher,United Kingdom,Finance,False
+6791cc2b-40e2-464b-b736-89edaeb609ee,Danny Hammer,Brazil,Engineering,False
+87a35e8d-7621-4430-9a51-d8f1a7df459c,Cheryl Claycomb,United Kingdom,Sales,False
+33167280-d35e-4fdb-96ee-540d55e6b66c,Elouise Moore,Ireland,IT,False
+b4b87f9f-6750-4ef4-97a0-328fb791c52a,Joshua Allan,Brazil,IT,False
+f726144f-303b-4b88-bcf4-b26ec59cf27b,Guadalupe Marshall,United Kingdom,IT,False
+2733ec5a-2983-48a1-8e53-56e31e74e505,Evelyn Park,UK,HR,False
+3e1f1019-3a1b-4cf2-b7ee-23b57084cef4,Ellen Cooper,United Kingdom,Finance,False
+a7403a60-cc6d-4e36-8372-62aef4bcf865,Tom Waugh,UK,Finance,False
+bb31ed00-9153-42f0-9f93-4ad12b84fcfd,Barbara Tusing,UK,HR,False
+2e28f168-d78b-4d12-9eeb-24e193eb00aa,Rose Kolodziej,Brazil,Marketing,False
+e0ab9284-a9c4-4350-858c-2ea9404c9fc9,Eric Knickrehm,United Kingdom,HR,True
+cdf5efff-f1bb-4cd8-a3d9-cea0630589a9,Joseph Amezquita,UK,ENG,False
+28399853-0228-4a82-9b21-0b2114184316,Rogelio Maciasz,USA,Engineering,True
+07a6913c-bfe2-4e62-81ac-8d2954f71d61,George Pitre,United Kingdom,Sales,False
+c6978289-a371-4c8d-9411-9afef6b406ca,Daniel Anderson,Ireland,ENG,False
+37f048de-490c-424f-86a2-2c865dcf0247,Alexander Bowman,UK,Marketing,False
+307f671c-0de3-4295-8a5e-9ba6e93d0a51,Rebeca Baker,Brazil,Finance,False
+11413014-5410-4714-bc0e-bc7107cd8217,Sabrina Wilson,Ireland,Finance,False
+f1153a55-163e-4169-9f29-3de6f8d3b934,Helen Forney,USA,IT,False
+9b32287b-4d1e-4a05-8ddb-72a9ebbe0b31,Anna Pitt,USA,HR,False
+3ea6d0aa-c0e8-43b6-841c-bedfc9ee8d0d,Melvin Wilson,United Kingdom,Marketing,False
+18e61e57-8d14-44d2-8df0-efd5b311b673,Russell Hampson,USA,Marketing,False
+ec21edb7-ee52-443f-8814-6161ee5dd2ed,James Stuart,UK,Finance,False
+6bf7ca88-ff91-4f9d-a1e6-be11237a7c69,Joseph Clark,USA,HR,False
+609f5d23-a773-4649-8cde-ed162df81bb9,Ellis Catano,Ireland,ENG,False
+2e54e800-2fee-4578-91ea-f26f0c1e1d2d,Heather Tedeschi,Brazil,IT,False
+47ded9d8-9eb7-453c-81ac-bea77a833efa,Larry Fox,United Kingdom,ENG,False
+0daeba13-11d1-4c14-8d32-41b4c5af215e,Elizabeth Quisenberry,UK,Sales,False
+25b4904a-af68-48e2-970f-35ae7e4861da,Marion Jones,Ireland,Engineering,False
+a76ae770-145a-4d7c-a5f9-08b75ca4c28f,Melanie Burkett,United Kingdom,Engineering,False
+35fd3b63-0c75-4fe3-94ad-b63ad4d465eb,Juanita Huver,United Kingdom,HR,False
+f3d15050-dd97-4789-ad2e-f6330681e874,Anna Hornbuckle,United Kingdom,Finance,False
+07b77cdd-0755-44ea-83df-43e6719c06df,Celia Ramirez,USA,Finance,False
+550aafd8-3386-40c3-8903-bf2554c828f3,Donald Weiner,Ireland,Sales,True
+e16a991c-6954-4a12-ad3f-f73122dc074d,Evan Aleman,USA,Marketing,False
+cdbccf06-415f-4784-be67-d51012319706,Annette Maxwell,USA,HR,False
+9c8d1684-f6f5-4cd6-87b1-0b9215bfa0c8,Tyler Lee,Ireland,Sales,False
+28ed307e-3125-421b-8882-b791e03e366c,Patricia Douglas,Ireland,Marketing,False
+709fa0a4-3cce-4611-9d13-597c90e87bf5,Joe Dempsey,Brazil,IT,False
+b6723d8d-f6c2-4b12-b9fd-2816f1f6b88d,Marcus Witte,United Kingdom,Marketing,False
+0acc80a3-bae3-4020-b64a-b24c72198e97,Ronald Bowens,Brazil,ENG,False
+0c4c06f0-0c56-484d-aaa2-1b6ec711a93c,Carmen Albright,UK,Marketing,False
+0a2f5ab5-2af4-4470-96c7-786837126031,Raymond Perez,UK,Finance,False
+06dbad54-9703-4092-86fd-e6c6a3c6db1b,Michael Broussard,United Kingdom,HR,False
+a7d76a33-08cd-40b5-a912-a38f19b5d2ce,Ann Riggie,UK,Marketing,False
+cc6b0427-7440-4d59-8c41-13432cba9519,Kenneth Streett,Ireland,HR,False
+99771c04-072c-45b4-832b-8e5d337a2f15,Christopher Hoffman,USA,Marketing,False
+66968cd1-1d4f-4ad1-93a0-d347bf9c6e12,James Cohen,UK,Sales,False
+316d7b35-ce73-4370-b202-f4f0725cbd92,Katherine Looper,Brazil,IT,False
+2c2ab561-af47-4128-888a-4fe6f4966aff,Joyce Jackson,UK,HR,False
+c637c03f-a316-4224-8a15-7c60e5b6c619,John Sitzes,Ireland,Engineering,False
+91aa5351-5867-4891-9213-12b5818c070a,Ricky Moore,Ireland,HR,False
+7cc1d893-161d-4cbd-8085-901766971475,Norma Brisbon,UK,Sales,False
+9adf979b-5109-47c8-879b-8052ae4e783e,Linda Hash,Ireland,ENG,False
+cb1124fd-681f-49ef-bd5a-9ba9769cdacf,Norma Skinner,USA,Engineering,False
+a1e35218-e27f-4019-9036-334d980c814e,Dorothy Brafman,United Kingdom,Finance,False
+0a5a6e66-604e-4d8a-ada4-63a5d344b8c1,Betty Lofton,United Kingdom,HR,False
+686f8a06-3c24-4aec-93e7-cf2d90026742,Matthew Doubet,UK,Marketing,False
+da00031b-6533-4686-ade2-c14f858cdac5,Paul Montanez,Brazil,HR,False
+12034c0a-cf4e-4ec4-b774-8c6304c5066a,Dolores Combest,Ireland,Engineering,False
+5da58aeb-db40-486f-92e3-48ba53ef77e6,Gregory Mccoach,UK,HR,False
+c12f2d8f-da8f-4489-a162-abdc9bd680ed,Malinda Weathersby,UK,Engineering,False
+deb795d8-5afa-4ea5-b059-f32224e601c9,Adam Barboza,United Kingdom,Engineering,False
+3780dea1-62b3-4141-bb23-fc1edaefeb00,Kari Moore,USA,ENG,False
+1d614366-07f6-438c-8289-65b1151fb2c5,Adriana Priebe,Ireland,Finance,False
+e39c067b-d27f-4e71-b872-86b9356241f4,Gretchen Echols,Ireland,Sales,False
+a1e35a0c-523b-4354-8eda-62a71a7c7b4f,Jose Harriman,USA,Marketing,True
+f84cde28-4c12-4b94-a2d1-2ca842b9e8f8,Joselyn Ford,USA,Finance,False
+efe07ff6-b68c-4625-8da8-d4459b77af36,Gayle Sinko,United Kingdom,ENG,False
+f76d8a3f-b657-48f5-9af1-5dedcd322767,James Smithey,UK,Finance,False
+cfaa02f6-c35e-4565-acdd-5f2c92f28922,Sharon Hoffman,UK,Sales,False
+1a8df16a-9d94-4d12-89ca-2feb4d108011,Jeffrey Caro,United Kingdom,Engineering,False
+bd624005-87a1-4782-8fc2-99eb9a79fd12,Virginia Thurmond,USA,Engineering,False
+92901de4-fc8a-4346-936b-2efcd21ab851,Anthony Wiley,UK,Engineering,False
+8e648470-eb11-4090-b9d3-eb42ab0dfdde,Edwin Goodman,USA,ENG,False
+2c0b1739-5cbf-494e-9413-60e5708d0f9a,Charles Rodriguez,Ireland,Marketing,False
+ccb119c4-a1a9-4e99-bf27-be6018f38482,Frank Iles,UK,ENG,False
+9d0d2bf5-b4fd-4c9b-a699-88228ddaf38b,Howard Wooten,United Kingdom,ENG,True
+e76dd3a8-73a0-483b-a9fe-a6f86a1da0f2,Carl Valenzuela,UK,HR,False
+c3ef9593-c0cf-493f-81dd-02c4eda00b5f,Wanda Graham,USA,ENG,False
+00a4e3ac-03b7-47d8-9013-623bd4c8fb05,Janice Dawson,Ireland,Engineering,False
+bddc21eb-192c-4d97-952f-6f859c2d57fd,Jo Voit,UK,Marketing,False
+45940bd1-a617-4062-80f9-98e9b9efdc47,Corrie Noble,Ireland,HR,False
+ce95c207-3b20-4667-a256-e0d6634b9351,Robert Galimi,UK,Marketing,False
+ec1b7343-66fa-494e-9398-61774d56d3d8,Gary Smith,Brazil,Marketing,False
+00548aef-b752-4ed7-b084-a44abfbb257a,Mary Fortier,Brazil,Finance,False
+a06dd02d-6c8a-4736-b8e2-87c4e3bd9c20,Katharine Simpson,UK,Finance,False
+80deadaa-8f88-46b5-a0d1-41dbe8a9272a,Danny Castro,Brazil,Engineering,False
+4d58687b-3e17-4732-97e2-0e046ef510c6,Mildred Omeara,UK,Sales,False
+2b632bfc-7625-4b1a-8de5-be02691afed2,Brenda Mccutchan,Brazil,Marketing,False
+65675603-cdcf-49d1-9a38-97b71a9d98b9,Richard Pinson,UK,Sales,False
+bec40784-aed1-4b5a-abbe-5b185785b27b,Norman Graziano,Ireland,HR,False
+2cc7d46f-31b3-46f5-967e-9737da516a14,Aldo Moore,Ireland,Engineering,False
+8113a6e2-ed3f-45b1-90a1-ad0c85dbc163,William Bonk,Ireland,ENG,True
+894789f2-2946-481d-82fb-235cb5a5ef65,Elizabeth Tirk,Brazil,Finance,False
+b02cbc46-b205-4358-b8b4-761eaf1e20a5,Jason Muriel,Brazil,Sales,False
+c9174ab1-5ad1-43ac-bdf5-72d9a0a2583d,Joseph Allsbrook,USA,IT,False
+ec2087bc-8177-4255-b772-4bb76164eea3,Charles Terry,Ireland,HR,False
+3407d9d6-d75b-4a25-bfdb-ecffb2a71d23,James Hollins,Brazil,ENG,False
+fafd5dfd-b7e2-4e34-a5b4-32e098e8cad1,Hyun Oroark,USA,Sales,False
+5d0f662d-77d9-4a66-8c11-4f27f7353883,Gregory Jones,Brazil,Engineering,False
+246afdf9-ea62-46f6-9308-89b9a19636f3,Jasmine Lawrence,USA,Marketing,False
+b1f804aa-9be7-4daf-87f6-30795172472e,Miriam Vargas,UK,Sales,False
+71da232e-9703-4067-8f4c-c1618c7f3844,Billy Linder,Ireland,Marketing,False
+574b973c-a4c5-488b-aa3f-f7555a273612,James Caton,United Kingdom,ENG,True
+11d82b67-9fdf-4fbb-9e7f-b794f01f360e,Ian Mccasland,United Kingdom,Finance,True
+989e6a5b-60ac-446f-8068-883bac5e4f3d,Carol Miller,UK,HR,False
+c4eb16f2-e352-4047-ba0f-ee1a01f28e59,Susan Greene,Brazil,Marketing,False
+1da19619-4093-49be-8280-5e42be0ebdb0,Gary Tirado,United Kingdom,Finance,False
+3420aa73-3bfd-47d1-88c9-68e66b21fc2b,John Hales,Brazil,Engineering,False
+50d3eefd-4a28-4e42-b9bd-f00dfd25b75d,Mauro Crothers,Brazil,Finance,False
+c4ccaffe-bc53-4f64-ae67-11188f52c375,Juanita Bartlett,USA,ENG,False
+b9bab14c-9c2f-419a-bf81-7663704946ff,Antonio Wilson,UK,Engineering,False
+b5dd31f6-ac5d-4428-a30b-bf8992d41c40,Laurie Vu,Ireland,Sales,False
+52bb184f-3403-44e9-aed4-0e15a54ac31e,Nancy Simonton,USA,ENG,False
+d9de0afd-18fe-4dea-bacd-9488b403663f,Joseph Thomas,UK,IT,False
+9c59ba72-4142-458b-bec9-dc11261b39f5,John Pennington,Brazil,Engineering,False
+d75df3f4-c21a-4098-a5b6-b400a6a02a3b,Etta Golden,Brazil,ENG,False
+2a7f8989-93cf-41b1-ab6e-73c4e9ce48a9,Thomas Hicks,United Kingdom,Finance,False
+532a1f59-7190-48df-8aa8-0a51d5e4d167,Sheryl Holland,UK,Marketing,False
+ac8fa974-3a88-4e00-aa08-62e57b1cf882,James Helder,Ireland,Marketing,False
+3759e072-c4c3-4033-9fe4-fafaf2acf934,Bradley Jimenez,United Kingdom,Finance,False
+1fe1ed84-64b2-4a56-812f-3c239f5438ca,Orlando Ruiz,UK,Engineering,False
+64c04733-8905-48b7-ae56-900a338fc6e5,Alan Crumpler,Brazil,Marketing,False
+9314d5f3-ad49-46b5-aa97-cc0020584c7c,Wanda Priest,UK,IT,False
+a7b46f92-fd5b-445c-9012-a7cc913d3f8d,Pinkie Boone,UK,Sales,False
+680f12ed-55c5-408f-93f3-f2128b10b345,Albert Brodie,USA,Engineering,False
+7d8db8f7-3222-464f-9347-5d9dc2a7c1f2,James Twine,UK,Marketing,False
+2cc6ee90-a602-4a98-a2b2-51ea2746ec8f,Jenny Foy,UK,HR,False
+549b202a-9d9c-4041-a7dc-2fb2e8bc023a,Patricia Peters,United Kingdom,ENG,False
+e30e8a8e-869f-46c8-9a2e-6afc8e17687f,Jeff Eyre,United Kingdom,Finance,False
+3e4516b7-c0a1-4b4a-a627-4f9435bb3423,Christina Millspaugh,Ireland,Marketing,False
+fce25e96-b14d-4792-b085-2845f4bbdce5,Kenneth Lesage,UK,Engineering,False
+1e60d233-267e-43db-b37f-ad789d8fdd99,Mary Calderon,UK,Marketing,False
+a0755370-ac8f-44da-ae22-9adfca5a870a,Jennie Mcknight,Ireland,HR,False
+22756329-9fc8-47cc-8360-475339736316,Nathan Harrell,Brazil,Marketing,False
+5a3dc03a-ba2e-48af-a271-79521b9615cd,Betty Raymond,Ireland,ENG,False
+583d4bad-8843-46f9-ae97-225c914d0132,David Barnes,Ireland,Finance,False
+a4c4995e-8968-4092-b2b3-880a6f4f2b73,Dustin Maddox,Ireland,Marketing,False
+fe3d5316-bab1-4679-8909-dc8018792a43,William Moore,UK,Marketing,False
+b0d586f1-6a59-4d5a-bdc4-db54d0612f49,Carol Arevalo,United Kingdom,Sales,True
+65ca712c-b032-440a-8a86-fa49c81a23c8,Luz West,USA,Engineering,False
+8f56be61-fcca-4a1d-ba95-2b2feb5d9a86,Ruth Hudson,Brazil,HR,False
+5732ffe0-8935-401e-aaec-5e36093ad014,Betty Williams,UK,HR,False
+7f9d92d7-ffb9-4246-aa6b-efdc9906316a,James Valone,Ireland,Finance,True
+c1790f16-eb9e-452f-8df7-94651b92a1d4,Amy Green,Ireland,IT,False
+80cd4d87-3419-4995-9ea5-2b9641533e9a,Richard Madson,UK,Finance,False
+65ec4651-08b4-4d56-a78e-deaad89b707f,Charles Rutledge,United Kingdom,Engineering,False
+cec8ee24-8451-4afe-8e30-331c63b388ff,Karen Cabral,Ireland,Engineering,False
+f8fd84e8-dda7-4306-bb1c-f1462cd00500,Maria Torres,Brazil,Sales,False
+dcf54261-9e1f-40fc-9994-69017ad9655d,Philip Castellanos,Brazil,Marketing,False
+5019cbdd-7828-40ad-b279-7d9880fbd2b0,Thomas Arledge,USA,Sales,False
+0b086cdf-7cee-47cb-a848-738d1dd77e8c,Mariah Smith,Brazil,Engineering,False
+3892075a-40bf-4c1a-a94d-784caade5322,Thomas Allen,Brazil,IT,False
+abb15757-5fa8-4e19-b880-64a44a38baed,Edna Smith,Brazil,Sales,False
+4eb6fa55-54a3-4ad8-a567-5c8762eacbcc,Betty James,Brazil,Finance,True
+098b08c1-be02-411c-8f1f-58caf1d1d0b9,Dustin Silveira,Ireland,Engineering,False
+943fdc1c-301f-4914-96ba-f9c731d250a5,Mae Shaffer,Ireland,ENG,False
+a16a3c9f-3986-4fe1-bbb2-21a7b8672ace,Eloisa Larve,UK,Sales,False
+1ca9fd1b-7597-4525-9b91-a8952ef5a199,Roger Rager,United Kingdom,Engineering,False
+0c673597-e03a-4010-a5f8-b0553c946a32,Alejandro Caruthers,Ireland,Sales,False
+af2ae9e1-d005-4dc6-9fcd-f509900c04bf,Janet Stone,Ireland,Sales,False
+a15cb8a6-4bfb-4332-9a0c-ae2acd60c1a7,Wayne Ramos,USA,Marketing,False
+85d2b278-201a-40b9-aad1-9489cf9b4888,Kenneth Burns,USA,Marketing,False
+b08460e4-48d5-4987-90f3-d163973678c5,Michael White,Brazil,ENG,False
+053dc717-3e3f-494f-9ce9-715965c778da,John Norman,Brazil,Sales,False
+72987f01-81bd-459e-b67f-6e16a916bfc0,James Adu,USA,ENG,False
+36d68f2d-0a36-4411-a168-f6e6524e3ded,Doris Ward,UK,Sales,False
+5aa097dc-afc5-4e89-be73-3bfd3460fc68,Tanya Hesler,United Kingdom,ENG,False
+8ffaea86-e758-4cbc-a0dd-d09e238444bd,Jeff Santiago,United Kingdom,HR,False
+967fcc96-540f-488e-8cc2-26a3b445becc,Robert Mckinney,Ireland,IT,False
+1c524580-9038-4d8f-a66f-0cf309c1cdab,Bruce Wray,Brazil,Finance,False
+fd9f7b59-2403-4752-90c1-917e3ca8d114,Sharon Messier,UK,HR,True
+ccfea661-6a1f-4db8-845f-c7fc2f3f07cb,Jordan Miller,Brazil,Finance,False
+66b5f9cb-4797-4cc8-80f9-857922ff6695,Anna Nishimura,UK,HR,False
+dc5f652d-b285-4b85-8355-ef3c41049be6,Charity Victor,Ireland,ENG,False
+f81a03fb-20c7-403d-b91b-bccde611fb0f,Arlene Cotto,United Kingdom,Finance,False
+a1a13b3b-42f7-40ae-89b8-71f98f9c6070,Anna Kirby,USA,ENG,False
+65798a8e-a93a-4470-8729-f81e606e3474,Clyde Lee,United Kingdom,HR,False
+206d131c-ce04-43c3-835c-994703151456,Albert Browning,United Kingdom,Marketing,False
+d33a9422-bc68-48c2-b69b-7de62c2966a1,Anthony Zuniga,Ireland,IT,False
+4e0e8526-41a6-4bfe-a00a-3c4843a7e6fd,Alice Lovely,Brazil,Engineering,False
+9faa76b8-52ce-4d8e-a854-efe350f1af0d,Melissa Eubanks,USA,Marketing,False
+4a48bd5d-d904-48b4-83d1-e17a99d291d1,David Mcdougal,Brazil,Sales,False
+4adfa5c2-60b5-426e-9cf6-cd396ab70d2c,Opal Hamlin,Ireland,HR,False
+6830545b-ac15-4080-8a0a-2b3efa3ede3e,Gracie Haase,USA,Marketing,False
+93f2f6ef-df07-422f-98ee-e543f251b1fd,Anna Miller,Brazil,Finance,False
+0f803485-1711-4d1d-bfd6-85f1a1baf592,Byron Likens,Ireland,HR,False
+98b8ecd9-e4a9-4981-bde4-85f30ffef425,Jennifer Wright,Ireland,Finance,False
+3858a39a-227c-4ca2-a8bb-83f39112cf7f,Douglas Williams,USA,Sales,False
+083764e7-1582-407a-8675-a6f8b8c3c13d,Lisa Krug,Ireland,IT,False
+1755ea8f-52c3-444f-9229-d9ed2493add4,John Fowler,Ireland,Sales,False
+ff3d86e3-b789-43e0-b50a-0cac4dcba6a8,Delia Taylor,USA,IT,False
+084d2468-2562-4f73-acab-a9140a810cb1,Erin Crenshaw,Brazil,HR,False
+f7eba5a2-d324-40b2-acef-d9a720806a44,John Mcclendon,UK,Engineering,False
+4682df84-f681-4f8e-a7d7-f233021c0062,Dennis Junior,Brazil,HR,False
+0f584ae9-6eb7-4489-a750-6cd4af79d9f0,Joy Anderson,United Kingdom,Sales,False
+cf061688-6fe9-464e-8e54-e134b44ed93c,Diane Nehring,United Kingdom,Marketing,False
+613d6cd1-884b-41f5-88b3-ce4ce041157f,Renato Allen,Brazil,ENG,False
+3c6e4658-0000-4d9c-92ca-d721dfcf088e,Robert Ramirez,Ireland,IT,False
+57a29a1d-ecde-4b2f-99b4-334ec1c9f2d5,Michael Edmiston,USA,Sales,False
+58e1bf82-4486-4ca0-806c-6a8697c66f3d,James Williams,Brazil,IT,False
+6905abca-8a5a-4d2a-bf66-cf700756ec48,Maria Borden,Brazil,Finance,False
+a4a87251-e35c-49b4-a95a-6ec23b15aff1,Elton Hill,United Kingdom,HR,False
+48120467-a2f7-4dcf-bc60-1e0f54da2b13,Frederica Lewis,Ireland,Finance,False
+c970ee66-8e1c-49ef-935a-028716768e26,David Ramos,Ireland,Marketing,False
+6207e96b-b039-4829-8a77-becd65a1f01b,Leroy Rounds,United Kingdom,ENG,False
+ea17d59b-c836-4574-9c8b-be2a9022e457,Brandon Hodgkin,Ireland,Sales,False
+060dab1e-77c1-4501-8674-5e49109e643c,Josh Mitchiner,United Kingdom,ENG,False
+18e56fc3-bcfd-4885-84e3-fe4d6e0558c2,James Glass,UK,HR,False
+01cf038d-c7a2-4a3c-9913-23a78fbe52ca,Margie Bubert,USA,Finance,True
+b21da674-fc65-424f-b32c-5f2c67c38117,Larry Ammon,Brazil,HR,False
+eac54411-b9f2-439d-b7e7-bec6814cdad5,Rachel Youngman,UK,Finance,False
+025d0b66-a837-47fe-8b73-01b9b8eb8daf,Jeffrey Corley,Brazil,Engineering,False
+471a596d-7608-48e2-81d1-19b5930792fe,Pansy North,USA,Marketing,False
+512ee0c4-1e91-435f-a712-85e1db977968,Lilly Powers,Ireland,Sales,False
+b37f73b8-1e90-4c5f-8ec0-657639d2c0fb,Wendy Sanders,Ireland,Sales,False
+861a6301-a3ee-4353-891e-ab7297b65b6f,Emma Hawkins,Ireland,Engineering,True
+8ff20c3d-743b-4fc0-b1eb-e87fe14cbd20,Charles Lim,USA,ENG,False
+9c839c49-0288-4206-8d62-aad4c3560c15,James Lindberg,USA,HR,False
+8ef7bace-3fb1-4272-ad00-5aa16bf9fc74,Jerry Summer,USA,Engineering,False
+b0b94b09-3bea-4c31-93b6-84ba801994d3,Timothy Wheeler,USA,ENG,True
+382cf9e7-667e-42b3-98b1-1123b56138d2,Barbara Schroth,Brazil,ENG,False
+2d88686c-71a0-46f4-bf86-108a0d051cc1,Bobbie Jameson,United Kingdom,Finance,False
+54d473f0-4224-415d-af19-dd45cc2e3ccd,Robert Mowles,United Kingdom,HR,False
+8af61443-7ddf-4bc2-8e9b-506144a27d2e,Randall Oliver,UK,IT,False
+181f1ac4-d20c-4c15-bcea-eb48aadfb893,James Lehman,USA,Finance,False
+a557062b-c25e-4962-b33b-99f93eb8a7e5,Guillermo Alfonso,United Kingdom,Finance,False
+dccb3dd7-bfdd-4a5f-b3f4-59085932be0c,Riley Cimini,USA,Finance,False
+5b5f5030-040c-4a15-a667-89159d000be2,Charles Inman,Ireland,Finance,True
+241d63c6-a54d-4569-983f-58c22fb85845,Tommie Nichols,USA,IT,False
+0f7a3eca-f6d4-4756-a72b-33b653093ffe,Robert Alvey,United Kingdom,HR,False
+bd5eb711-d80e-476c-9787-f33aa1b987d1,Renato Paradise,United Kingdom,Engineering,False
+d7a0c874-9503-4112-a455-55e15d37cba2,Timothy Johnson,Ireland,Marketing,False
+8a088704-93ba-4905-9a30-d5d25c8611d5,Kimbra Mills,Brazil,Sales,False
+2f5e608e-9e02-4838-8b40-4919930fe15c,Mario Callahan,UK,Engineering,False
+5108c1a9-3b5f-4076-a4cd-c8fb8d0ad0a9,Mary Jones,UK,Marketing,False
+0a539861-ca33-4653-a85d-f0c5285d9e5c,Karan Soule,USA,Finance,False
+9297641b-b4ae-40a8-b916-8d0df2ca8fda,Helen Piller,Ireland,Finance,False
+f0bd78c3-9ec4-4b7c-aadc-c7ec606ee100,Wanda Monroe,USA,Marketing,False
+30ad62e2-2716-42c0-8a23-67ff78d976ba,Joseph Butler,UK,Marketing,False
+62a63b82-95f2-4eb6-b15f-d712ceaf74d3,Edward Stanley,USA,Sales,False
+b81c3be7-6e9c-4278-a936-798607f93b17,Ginger Hartung,USA,Finance,False
+5dfa6b7d-7a07-4999-a85f-56ef14aeb278,Carol Malott,United Kingdom,HR,True
+bd1b2434-49cf-432d-8795-0808c9f98695,Herbert Skursky,Ireland,Engineering,False
+e672aee6-c1c7-4e62-923b-f0c8b7b845dc,Lilia Carpenter,UK,IT,False
+5724abe4-dab6-4f1a-86b5-b41dc16f0c9c,Luis Jones,USA,HR,False
+7f68fcb2-c694-431e-9718-b7868c58cd08,Lan Ward,Brazil,Engineering,False
+dde419ef-054c-45e8-ad41-711018e7c21a,Tammy Esparza,Ireland,Finance,False
+003f9ab9-8207-453b-8fc7-7235d55ee81b,Ernest Leininger,United Kingdom,ENG,True
+a14f3aba-adfd-4612-ab3f-04ec346abdc8,Joe Sak,USA,Finance,False
+1d87e0af-992c-48ef-ab76-acad9a487fdc,June Clark,Brazil,Marketing,False
+fb1bdbe5-2fc2-4037-9628-5788b9b2c751,Alberta Mckinnon,Brazil,Marketing,False
+ceead3f1-44fe-4005-a240-4c6ede98b7a2,Jeannette Velez,United Kingdom,ENG,False
+7bf885e4-4bc4-450a-868a-071b3434def9,Vito Reddy,United Kingdom,ENG,False
+67e0d8b5-e40f-4d31-aa8d-eb10a4d0fcba,Mike Gaynor,UK,Sales,False
+26154ed2-81e3-4030-b090-428afcddc4a2,Ronald Burch,USA,Finance,False
+93931cdd-586b-498b-821a-a8565062e57c,Maxwell Johnson,Brazil,Engineering,False
+46868e7e-c898-4256-b2aa-031ff67155c8,Nancy Harper,United Kingdom,Sales,False
+fb40e6f0-c87a-493d-a949-79e70ce54908,Stephan Hunt,United Kingdom,IT,False
+30de5872-54a8-466b-a7c6-e59a2b1a6843,Gertrude Smith,Ireland,IT,False
+2f870fd1-5c97-410a-90f6-1c932ac5da39,Jesenia Summey,Brazil,Marketing,False
+9dcc1f73-3a35-4730-8ad6-cf43504be8f1,Kathrine Leach,USA,Engineering,False
+7a6fecda-3dfb-415e-83c5-bf74c9b8bea1,Hattie Holliday,United Kingdom,HR,False
+dbeeeba5-9a46-4b59-a062-4aa4d6af5ab6,Nancy Hafenstein,USA,Sales,False
+f2c54f7a-31e1-4ee4-90c2-c67bd92f8755,Justin Flowers,USA,Marketing,False
+275fb691-1f03-4934-8438-9a3d57eaf990,Annie Holliday,UK,Finance,False
+c06170d5-f5a1-4535-8948-1977c0935255,Danika Johnson,United Kingdom,ENG,False
+dad854c3-8ae8-4a3e-a93d-8e671b4d6970,Terrance Solis,Ireland,IT,False
+2278ee35-39fd-41e0-a70e-1e0434ee1da8,John Smith,UK,IT,False
+189bcfb8-38d3-4146-bf42-a41805382427,Carla Robinson,Ireland,Marketing,False
+32a5eed7-48ee-4195-a190-39c32cd228a2,James Peavy,United Kingdom,Sales,False
+6569cfb3-c574-4c18-9172-8072c79987b7,Kenneth Master,UK,ENG,False
+4185193f-bf7e-4c86-ba9f-61d02fddedc2,Stephen Clement,United Kingdom,Marketing,False
+fea5478d-52b4-4478-9d33-c0bd45a863eb,Joseph Stevens,USA,Engineering,False
+f01be2ac-0245-47a0-8f3f-f70fcd8e4f8d,Mary Green,Ireland,ENG,False
+b569d346-823f-4e9c-964a-8e0fd9cd4287,Gregory Gulick,United Kingdom,Marketing,True
+2b1fe67f-6373-43a4-902b-abfeff43750c,Kathleen Jackson,United Kingdom,HR,False
+93d9c35f-5e0c-4927-99d6-bb4dfd1d019e,Melissa Landry,United Kingdom,IT,True
+41d8b1a3-1707-42b2-a7cd-a838eeb92a55,Alexander Rodriguez,UK,IT,False
+eaf7f196-9c36-4bee-8fe1-ff4c6edd5920,Ron Wolfe,Brazil,IT,False
+16eafdd3-45dd-4e62-8a87-f748852acd74,Brian Barnes,Ireland,Engineering,False
+15898c6a-980b-4bcc-936a-070d3274fcd6,Alice Logan,USA,Finance,False
+7e09d2d9-63f0-4fe6-937f-1ef1a6919990,Miguel Jefferson,USA,Marketing,False
+1531b081-9649-4038-a302-0a740d98bdd9,Brandon Kendrick,Ireland,ENG,False
+45cc20db-11aa-4b90-afbe-f32d4e81476d,Jeanne Armendariz,USA,Engineering,False
+a1bb73f7-bb30-488a-9baf-6e7051791745,Brian Provost,USA,HR,False
+abe4a8c6-ad76-4e2f-8b42-6105d09757de,Azzie Pedersen,USA,ENG,False
+0815f1c2-c9af-4ed1-91d4-df470d5f30e2,Timothy Bourg,UK,ENG,False
+c8a3a420-77e7-48f1-bd30-25e2731cbc1b,Elmer Hobbs,Ireland,Sales,False
+760ba876-5184-44a2-a29f-60a0bdf196e3,Jamaal Hooper,United Kingdom,IT,False
+268228db-8e5b-439a-8712-fc6ed7fd98e7,Ronald Kuhn,Ireland,Finance,False
+a5fd8178-52cf-44e3-ac21-6d79d31997a5,Margaret Placido,Brazil,Engineering,False
+6e809fba-e24c-4604-9937-7ceab15c0118,Kyle Quillen,USA,Finance,False
+f8df6061-15f6-42ea-982f-b53a43b391d9,Hanh Bravo,Ireland,Marketing,False
+614b32db-8abe-4663-8198-0e4106cce492,Adan Burton,UK,Engineering,False
+0d70f6d0-bd44-4fbf-aefd-a7edb6661d6b,Alice Rebick,Ireland,Sales,True
+6b62bf20-cbe4-4d2f-af56-d538948f8376,Lauren Weideman,Brazil,Marketing,False
+1ad7439e-4b37-4fe6-96ac-333fe46cc137,Elizabeth Garcia,Ireland,Finance,False
+223cc26c-e1b3-4e38-99ec-6d9326f87c83,Davis Rosales,UK,IT,False
+d749ad81-5721-4d89-9f41-583adf50903e,Shane Wilson,UK,Engineering,False
+4f7a476b-f821-4cac-b7d2-9e317400a81f,Ernest Runion,UK,HR,False
+c1d3230f-799c-4c88-b015-3104cbb49e2c,Barbara Hane,Brazil,IT,False
+c6d7f678-a49f-44ac-bf3c-6e83c4631a60,Jo Hicks,United Kingdom,Marketing,False
+a05e92d1-da51-41f0-bf45-705eebc3e549,Michelle Farrell,UK,Sales,True
+f997cf4b-d0c7-4ed9-b4c3-e8fecbb144c8,Don Stoltz,USA,ENG,False
+70a51015-ada8-4837-8f26-95c949a8bac6,Joseph Loos,UK,Engineering,False
+3b897fe3-e985-45dd-ac12-201a4e8b18c0,Anne Correa,USA,Engineering,False
+68357a1c-359c-48ec-b295-4ff98533d617,Mary Lattimore,Ireland,Marketing,False
+6a383339-3acf-42aa-9f48-6cd6451501b2,Keith Hayashi,Brazil,Engineering,False
+2c64f84d-f805-4191-9028-c9563eae0d41,Jason Small,UK,HR,False
+faf4fbe2-08ab-4581-aaf2-dba6dd7f70fb,Daisy Elzy,Brazil,IT,False
+d3835bb8-202d-44f6-b6ff-a81e5c7a1e17,Nancy Humber,Brazil,Engineering,False
+b8132c38-1432-46dd-a7af-fad4242533cd,Louise Hruby,United Kingdom,IT,False
+050c14eb-b8e8-4a70-a49f-49d20ba9fae9,Scotty Garner,UK,HR,True
+a5c6fea4-d2eb-453a-a536-0f7c86703115,Michael Bello,Brazil,HR,False
+4e849263-c8c3-41a0-a4db-4c62052670c4,Augustine Lucas,United Kingdom,HR,False
+433bacde-89e8-4276-96a8-eeecd44087e1,Annie Isaman,Ireland,HR,False
+820d4a45-bebf-444a-95c0-fb88c617e02e,Yvette Brown,Ireland,Engineering,True
+96aa82e7-1fcb-4ff0-aaa9-c56345f08e1c,Maria Austin,USA,Marketing,False
+e4e5672a-6783-4c35-bc23-5b768cac5ac2,Elizabeth Saavedra,UK,Finance,True
+b80adbb5-b148-49f5-bed0-cd99f9c13384,Kiana Gordon,United Kingdom,HR,False
+4d80b1e9-675b-4999-8b20-135a7240108b,Ray Derr,United Kingdom,ENG,False
+224903d8-2c86-4013-99d3-efb161c7c876,Damian Kilroy,UK,Finance,False
+61602816-7b68-4002-aff2-eb7606345045,Alden Browne,UK,Engineering,False
+f61a0a1a-a188-4ee1-9c74-2409dc145162,Shirley Barnes,Brazil,HR,False
+debbb03f-f325-4df8-b790-1cbfbaa72e3a,Shirley Abruzzino,USA,HR,True
+9788b6e7-25b0-45fb-9b80-cc11b0acc903,Blanche Lavoie,Brazil,Engineering,False
+0b84b6c2-232f-4280-94d1-965d23ddbd42,James Shaver,USA,Engineering,False
+5f4374d0-669f-45a1-bec8-46742c1b2b87,Carl Howard,UK,HR,False
+20e4f41e-0592-41b1-8609-9b3dc23088a9,Elroy Reynolds,UK,Sales,False
+b933fc0c-e120-4bdc-abe0-e344d2a5bdc1,Dana Becher,Brazil,Engineering,False
+f81774d5-a1eb-48ba-b71a-ede52d087927,Jerry Conley,Brazil,Sales,False
+1c1e266c-1587-4a14-bb4e-d58607039554,Iris Urman,Ireland,Finance,False
+27ca54a1-d809-487f-9cb0-8d10d4213063,Joey Wagner,Ireland,Sales,False
+24d91bcf-6b0b-41b0-87fc-5b03cb0b4698,Junita Osborne,UK,HR,False
+ee431258-0b56-469f-800c-2812e99bc236,Elizabeth Reed,USA,Finance,True
+2769a278-bd3e-4f79-ad6f-edc078b0ea00,Vera Moore,Ireland,HR,False
+63fc7a8f-53d3-4652-8034-456961be3869,Terry Cox,Ireland,IT,False
+06eacaeb-7498-40b4-8d11-b6b827c6252f,Elaine Clark,UK,Finance,False
+a6c718a3-1996-4591-bf73-ecf67ec6bd14,William Pratt,Ireland,Engineering,False
+0af8ccf5-19e4-44a5-9535-1094f6bd33e5,Louis Pemberton,Brazil,Sales,False
+c19ff5e7-90bb-4c9e-839f-23988612b1be,Joe Brooks,USA,HR,True
+5884232a-7de7-4024-ba03-b1013a2a2923,Armando Mccrary,UK,ENG,False
+15cfeb3d-ffbd-4648-b5a9-235a62927fd2,William Johnson,Ireland,ENG,False
+81d505a9-608d-4757-a918-90b57e14516e,Ida Rybka,United Kingdom,ENG,False
+c79ef166-1b2c-4045-8673-c6cbc488f09f,Fannie Boucher,Brazil,HR,False
+69e62c2e-c0e8-42fb-bcda-59bd9322c17c,Vincent Settles,Ireland,Marketing,False
+595e8ffc-0073-40fd-b056-faca53dcc9cb,Jeannine Logan,United Kingdom,Engineering,False
+847d3c5a-d42d-48f8-850d-54d55cd94e7f,Kathleen Poland,USA,Marketing,False
+75c2b0e0-2826-4dca-8390-7f19f604fcb0,Diane Hayslett,Brazil,IT,False
+4255ab0e-c2b6-4307-90d3-bbf2f8ff39c5,Teresa Coleman,USA,Marketing,False
+c47019dd-e5cc-47d8-a370-f28f5cb6975f,Aaron Dowker,USA,HR,False
+c95417e3-33b5-4088-bb0f-96048c75fc56,Valencia Koehler,UK,ENG,False
+81b18632-3971-495e-a4ea-7bd8a1d76ecb,Russell Boylan,United Kingdom,Finance,False
+92f5b40e-d251-4d05-bc9a-11b519ac0ddb,Thomas Aronowitz,UK,HR,False
+fe73cc8a-d451-4bab-80ff-c3b8f6ab2677,Thomas Williams,United Kingdom,Engineering,False
+9c8622d2-95fc-4a95-ad9a-3bd66f7cfb6e,Tiffani Kelly,Brazil,Finance,False
+832d87ff-20f7-4fe6-ac26-f12d0c288ce7,Donna Russell,USA,IT,False
+8bcb4941-30fd-46f5-9763-aad96dd72748,Rene Mikulak,United Kingdom,IT,False
+c7c995db-fc72-4aac-a4ab-cbea30b0ecbc,Chad Howard,UK,HR,False
+47413eea-7a78-463c-ab7d-78a2f3219da6,Bobby Nagle,UK,ENG,False
+96ba17c0-8d0d-4b44-9064-e2a3abb36111,Michael Monroe,USA,Sales,False
+b480233e-7686-406e-b22a-6dcc7b9da4b3,Kirstin King,Ireland,HR,False
+c6ed2af1-5202-4e0f-b252-c281b756f1b0,Cynthia Busse,United Kingdom,Engineering,False
+8a9dd125-8de1-48d7-8b03-cf5a8f68c747,Richard Steinberg,Ireland,Finance,True
+c3b6a43c-8b89-4a7d-9e52-5dfb81940fe9,Jennifer Howard,Brazil,ENG,False
+6e1ca4a9-694a-4890-a506-ca5cb8faa77c,Laurie Parrish,United Kingdom,IT,True
+06622fec-e48a-47d1-bea3-44f0f5af4899,Lora Graham,USA,Marketing,False
+c86e83d9-87af-4307-8ac8-a19ba5511974,Edith Solarz,Brazil,Sales,False
+9d5656a0-9c64-47b1-9ea2-24477bd67fcb,Denise Smith,USA,Marketing,False
+25b3a173-3aa0-4617-b926-5424f8d684a4,Brian Gannon,Ireland,Marketing,False
+959255d9-fcfc-4b2f-99b0-070f565ba349,Rocco Griffith,United Kingdom,HR,False
+715045ac-f20b-49f4-9092-7e325a918ddc,Shirley Moore,United Kingdom,Sales,False
+066463e1-0419-4f45-9c2b-1cf438f5f4ff,Gabriel Albertson,Brazil,Marketing,False
+18fdab95-de60-44a1-840b-4fd3b1dd9e54,Ryan Marcus,United Kingdom,Finance,False
+1773239e-275a-4e67-a585-06c98bd8e0b7,Neil Gold,Ireland,IT,True
+ff0e0cce-c2c0-4488-9bc7-0da32e19ae82,John Gaffigan,Ireland,Engineering,False
+fd8327e3-ab7f-4b86-9398-c67f584e66a9,Napoleon Numbers,USA,Marketing,False
+410bfe69-5603-46e3-ac25-1820728bf193,Louis Dunham,USA,HR,False
+ab8dc4d2-2d02-4c29-896f-1f75870cf12a,Henry Martin,Brazil,Sales,False
+9de1ba8b-a02b-4d89-abab-b35370d0e223,Mary Wolff,Brazil,Finance,False
+f3a3b512-b0e6-4243-81a7-8cc1efbcd62f,Ivan Crumbley,UK,Engineering,False
+0774a29d-ca72-428d-aaa4-26c755369c19,Evan Dryer,Ireland,IT,False
+3d063954-975f-4030-bee7-de023c563f0a,Betty Flores,USA,ENG,False
+e57b8c60-698d-4e80-93d9-370c80db928c,Dawn Guillory,USA,HR,False
+6e0dcc53-67ea-4a5a-a530-928b1e915258,Patricia Aber,Brazil,Sales,False
+0af83840-d8f8-40d8-b50a-59bb0bb6dc80,David Martin,USA,IT,False
+ec234ec8-5395-48b9-a4b2-0f851c5c62aa,Faye Gow,UK,Sales,False
+9c0bf126-b337-4706-b7a7-f255ac7f5770,Shirley Tyson,Brazil,Marketing,False
+dc5b974b-66da-4d41-b909-e52f3b2533f2,Lewis Houston,Ireland,IT,False
+3a5bb70f-ee0b-4370-98f8-846e00c688f6,Rodney Laso,Ireland,IT,False
+7a3da058-16ca-4e24-92fa-9240ff9c243e,Barbara Kiser,United Kingdom,Finance,False
+651b3abe-60f7-4469-b37a-bb35b95be7d2,James Anderson,UK,HR,False
+7d99d1a7-5097-45a5-907b-df359c8df1b8,Anna Prendergast,United Kingdom,Finance,True
+57623d9f-d274-4f81-bac9-d06756f3dd6b,Esther Calderon,USA,HR,False
+e110a1ea-7591-417e-b6c9-edfdf72bbcc5,John Hughes,USA,HR,False
+61da6811-ee03-4a54-9db6-7abc2c4172eb,Darrell Johnson,UK,HR,False
+8695627d-4e1d-4d30-87b0-a72650d533c4,Clayton Parrigan,Ireland,Engineering,False
+03deca48-ea32-47f9-909d-5e4d6a816797,Rachele Hamilton,Ireland,Finance,True
+aa146091-f8de-4aef-b5a9-811dd6fb594e,Ellen Hopper,Ireland,Sales,False
+e2ae364a-d142-4648-ac26-6c67ff55280e,Victoria Camilli,USA,Finance,False
+fbb37070-c11e-407c-817c-d54f693b5b72,Elisa Kaltz,United Kingdom,Sales,False
+9722c64c-c041-470b-9f4a-45a3fdc29bce,Robin Powell,Ireland,HR,False
+ad752b3b-5573-4926-995d-ae07fdace8af,Michael Garrett,United Kingdom,Sales,False
+b8007de0-75a1-43a0-b0a7-47e866393778,Glenda Davis,Brazil,Engineering,False
+80b6e2e8-5e48-44a8-91e9-64a172febfaa,Clifton Glenn,Brazil,ENG,False
+0b176f55-0a43-413d-af57-cda45e215996,Donald Estes,United Kingdom,Finance,False
+0ff9879a-48db-4879-b5ff-a64b7d2a6eed,Tonya Griffis,USA,Marketing,False
+4e6e7744-f2c1-4d1c-a3ab-49ff68dcb188,Linda Faircloth,UK,Marketing,False
+98c12c1c-648f-44d6-8189-1903c10ee360,Michael Flores,UK,IT,False
+ae293f4e-d0cd-4ff6-9737-63d103f5400e,Laurie Diaz,Ireland,Finance,False
+4c63920d-bbb7-4c1f-acb8-01bb0e4e8e1c,Barbara Woods,UK,Finance,False
+ac2038da-5c25-4019-989f-f39ecd02f6e4,Bula Grabowski,United Kingdom,IT,False
+5d3314ed-370f-4bce-8246-867839fe91df,Laura Bennett,UK,ENG,False
+7239369b-49a9-4a7f-aed8-cdcc9fa161fd,Keri Linnane,USA,Marketing,False
+6be82324-608e-40e1-a8b4-61b16ff1a5b9,Michael Bock,UK,Sales,False
+670e6dcd-e41a-4baf-a47a-8bcedcfc8af8,Kyung Chacon,USA,Engineering,False
+3c00cd9d-1e09-4c77-a9a0-caac8ed7c318,Marshall Reynolds,UK,ENG,False
+99a1d860-9aca-43d4-960e-0f72203ab823,Christopher Downey,UK,Finance,False
+ee04d940-6af4-49d6-8a32-ba1cc7e3890a,Bobby Boivin,USA,IT,False
+e2a24442-e95f-4de7-aded-fde4903da402,Leona Gillett,USA,Engineering,False
+0c46dc20-6b64-4d74-aa1f-bee2f99c9bdf,Daniel Tello,Brazil,HR,False
+d7f4255a-6037-42e9-a558-b5117160aa1b,Ron Doyle,United Kingdom,IT,False
+4cf48a50-a645-4e55-bdb8-62db8225ab72,Josephine Durnin,UK,Engineering,False
+ac506347-e64d-48dd-b8d0-febfc0ee001b,Craig Thomas,USA,Engineering,False
+84152b32-aa1c-45ba-a512-d71d62a85af5,Mack Kridler,UK,ENG,True
+f913d9e8-a18e-4571-ab02-1f99ec82f684,Barbara Capers,United Kingdom,Sales,False
+ea0bb2a9-97ef-4873-a57d-8f48aba7e592,Yvonne Chambers,Brazil,ENG,False
+a4a3fb88-e39c-49a4-961b-310928d9d7d9,Carlos Arney,USA,Engineering,False
+6bf3e9cb-a0af-4a50-a829-a8fe27df0680,Antonio Borst,United Kingdom,ENG,False
+d9dbf112-2d3a-4481-a1b2-5766a2a4987d,Tony Parker,United Kingdom,Finance,False
+b8f2d689-8a96-4c37-9ddf-85558acb6dd2,Debra Byrd,UK,Sales,False
+03125040-00d9-40f2-8e0b-93f8529a513d,David Redmon,Brazil,ENG,False
+dd1a6ded-cec2-4806-ba3e-372f766b8534,Timothy Marshall,United Kingdom,Marketing,False
+73628ce4-5c69-4008-b2b2-94f9c00f9c81,Barbara Lopez,UK,Sales,False
+1370d2a3-1fda-4e73-a17a-e04d86d0d9e0,Steven Hunter,UK,Sales,False
+105be9e5-897c-43c9-87c3-d2af4ba99ffa,Christina Bledsaw,UK,HR,False
+467c7e82-8ff8-4201-983d-363bfbec9ec9,Elizabeth Likio,Brazil,HR,False
+4229d597-d843-45d0-bc02-737e05394bf5,James Broder,USA,Sales,False
+f003f64d-a5be-4e39-941d-25ffc63dfa02,Lewis Suzuki,Brazil,Marketing,False
+06e54c41-1e6f-4fc5-9350-bb238b0eb4bb,Dawn Swain,UK,Sales,False
+efaf2570-cf7a-4e3f-ac42-8cecbadb1b66,Rhett Heng,Ireland,Marketing,False
+96f109f6-8e4f-488e-a108-001caf1f117b,James Brown,USA,ENG,False
+cc74fbfc-945e-489a-89a1-bf15e6e9b894,Shirley Johnson,Ireland,Engineering,False
+9daa02cb-865b-4f0c-a2f4-b1df63a53149,Shawna Page,Ireland,Engineering,True
+badc5156-80dc-496b-9032-b4dbf600f93c,Daniel Burton,Brazil,Finance,False
+90bfe19f-6c3c-41bc-b6d7-7bc852668782,Salvador Wallace,United Kingdom,Finance,True
+3d5c2264-a394-467f-9ad9-a0682f35e51a,Timothy Pantoja,Brazil,Marketing,False
+ac34e088-6bc0-4658-8aed-6b4d99683773,Melissa Rodriguez,Brazil,Sales,False
+54fa769b-9e1e-4c55-be22-a5078ea46327,Breanne Halloran,USA,Sales,False
+0cb10089-f6f6-4b8d-9832-6aa7671cdd0f,Dawn Lowe,Brazil,ENG,False
+d4ebd99b-bc9e-47a6-86ef-2d76a204d5e0,Julia Lorino,UK,HR,False
+582310ae-c7a0-4700-b063-27d39373c826,Roy Howard,Brazil,Marketing,False
+815b4ba2-a63c-46c5-9130-8abf1b8da87f,Alberta Salgado,United Kingdom,Sales,False
+95fdb042-57fc-49f0-9b8e-38f7564fe6bc,Jeannette Williams,UK,IT,False
+d56c7b9c-d8f3-46ff-a086-96040056b255,Michael Vigil,USA,Marketing,False
+7ee8266b-67e4-4ae0-a30f-0292007539e0,Lillie Watts,USA,HR,True
+747c9e3e-ea03-4e14-98d2-a1dbec22edb5,Leonard Lopez,Ireland,ENG,False
+545f6759-185a-4184-afad-b8c4de8984ba,Patrica Nicholas,Ireland,Engineering,True
+f062e0d2-175b-480c-8d9f-68080986e949,Donald Luong,Ireland,Finance,False
+cdc07457-11fe-4b53-89a6-a3aa91299cb0,Eugene Baillargeon,UK,Marketing,False
+6c7b0658-9da2-4eea-a790-67283e856ced,Jerry Calico,Ireland,Marketing,False
+cda46fef-4de3-4ca7-84a6-80b1aabfd838,Judith Pritchard,United Kingdom,HR,False
+51b808bf-a3d0-46bb-a244-9886d833ae29,April Ragan,Brazil,Marketing,False
+e0fe5ab1-343e-41a8-96d4-cf515c123320,John Howard,United Kingdom,Engineering,False
+28b95d75-2d26-4f1e-b187-a0a14d30b910,Freda Rice,Brazil,Finance,False
+789e23ef-7bb3-4cfe-a018-6deb5fbcf9bb,Cathy Smith,Ireland,Marketing,False
+2671174d-ee83-449e-885b-174cba721f0d,Cynthia Brown,USA,HR,True
+bed4b2f3-a96b-4389-8bd4-012ead2f09b1,Steven Degraw,Ireland,HR,False
+cbc13a9c-082e-4b56-b394-7c5feaea34a4,Michelle Messenger,United Kingdom,Finance,False
+9671d5eb-e154-45ee-a61d-b8655c8b3287,Arthur Byrd,USA,Engineering,False
+07591744-5fde-4568-9676-e915902c4f56,Julie Dodd,UK,HR,False
+f3028ca9-d415-4ef2-bd60-eee98e7af75c,Valerie Sanders,United Kingdom,Finance,False
+d0834199-0705-4f90-9a1b-48db13d6119d,Gina Crane,Brazil,ENG,False
+c8662458-364c-49de-a1bb-528af8d4f746,Sheron Ruiz,USA,Sales,False
+a22451e0-2fbc-4234-98cf-920e16b9074a,Guillermo Baker,Ireland,Marketing,False
+fa18bde9-52f5-488d-8173-9b3dd252436e,Paul Hall,UK,Sales,False
+69d41612-6647-4100-a65d-c119586483ae,Abel Taylor,UK,Finance,False
+8dd3de48-ba93-40fb-b3e4-f273b40a3d05,James Messler,United Kingdom,Finance,False
+e5f99d01-038d-4af6-9720-362ebae59131,Jeffrey Jones,Brazil,ENG,False
+71ef54e6-910a-4042-8edf-bc284612f939,Malcom Modine,USA,ENG,False
+cc4a06ee-2d52-4e35-ad7c-b0742af92a08,Yvonne Hendrix,UK,IT,False
+6800d9cb-7e2e-45a8-a4b9-85ca8c75b717,Alicia Cole,UK,IT,False
+80b2343d-9bf5-4d79-98e3-6f5e6e6d6be8,Marjorie Hernandez,UK,Marketing,False
+685e3546-62b7-48bb-8fb4-e4cd86cfcc9b,Patricia Campbell,USA,Marketing,False
+f34699bd-ab7e-42f0-9f1a-eade572e6a94,Dean Lin,Ireland,IT,False
+861a882a-b1a8-455a-bc18-2c3ecc273cba,Daniel Stevens,United Kingdom,IT,False
+ca0c3933-1b33-44d4-9e79-4f1dad0c033a,Julie Tomlin,United Kingdom,Sales,False
+57d16f96-b729-48ee-b6cd-d2994e926fdd,Arthur Reno,Ireland,Engineering,False
+62f5b8b2-475e-4c82-81c8-14099f50712f,Richard Denham,UK,Finance,False
+8d64b905-6fb4-45dc-a33b-4544f569aa3e,James Sweatt,Ireland,Engineering,False
+75a8c3c1-7f54-4464-876e-956db603a640,Jenny Cardiel,UK,Sales,True
+39f6aeb4-1201-4795-a036-14547faa5087,Peter Sittloh,United Kingdom,Finance,True
+4ad76fe4-2571-4229-ab08-53b2c6a8bae0,Erica Bertram,Ireland,Marketing,False
+cb25534a-f2b0-4856-8656-4b00bf15cb5a,Kyong Lussier,Brazil,HR,False
+f02b4f4b-9747-4773-b641-ddc9f503a6e6,Leslie Sanzotta,USA,HR,False
+b0af49a5-1aa9-4e8b-90c7-d21f8d9600d0,Troy Smartt,USA,Engineering,False
+453e8508-dbfb-40db-af12-4a881b895cad,Mary Matthey,Brazil,ENG,False
+7c932d5b-54d1-42bc-90f1-51b42e0f29fc,Linda Womack,UK,HR,False
+3eabd814-4f11-4bc2-9cfa-0fada200648c,Michael Leister,United Kingdom,Marketing,False
+745a63f0-9bbf-4efa-b584-987b3a1bfdde,Larry Nesbitt,Brazil,ENG,False
+677b42fa-7c10-491e-a497-5d7c617fab44,Janet Hoyt,Ireland,HR,False
+9d59bad3-32e2-486c-a017-b86a378f7132,Julian Mcgahey,Ireland,ENG,False
+f89306df-6960-4fc5-8e4b-2fa4902aa86f,Eric Williams,United Kingdom,Marketing,False
+9c4cb4c1-92a0-407d-8df8-22ff0f6bdbb4,Carl Mooney,Brazil,Engineering,False
+e58ecdbf-642e-4db9-81b7-881d85acbeb9,Jackie Howard,Brazil,Marketing,False
+88afd79b-f7c8-4138-8d0e-4a987faa007d,Marie Coons,USA,Marketing,False
+8afcc883-767a-4c03-b2f8-58161e1c6e12,Collen Weaver,Ireland,IT,False
+2c300e42-320d-4343-86d1-dca70d8c263d,Sherry Singleton,UK,ENG,False
+5fa2871e-f5cb-45d4-8921-eb7c40c12bd6,Linda Schueller,UK,Finance,False
+452a22f6-8614-4f2e-ba5b-1269ebad91c2,Alison Wilson,UK,Engineering,False
+d01dadf2-7884-4598-9d67-4146fcabd9e2,Mary Turner,United Kingdom,Sales,False
+1b5203a6-3dc9-49d1-88d2-c3bf9a68dccc,Rose Zavala,Ireland,Finance,False
+7211adff-fecc-4972-a251-aab5cce3d4c6,Carol Samuels,Brazil,ENG,False
+d0321dfd-6bee-49bc-aade-27e80c46cf39,Ella Horne,United Kingdom,IT,False
+62d5f267-1744-4b76-b14c-54cd34d8e0a5,Paula Osborne,UK,ENG,True
+2920ab47-4f2f-43e9-968b-d993583edd67,Helen Mayer,USA,HR,False
+07018f78-845d-4632-b567-3e0b5017af50,Kevin Franco,Brazil,Engineering,True
+17332620-5b36-41ef-afcd-e6ef5ff92b77,Ralph Griffith,Brazil,Sales,False
+9456193e-a463-4ee7-9dca-e72ae1bde9c4,Hannah Self,UK,ENG,False
+2175b25d-f826-47a2-adaf-4e9d5171aeed,Jonathan Cruz,Ireland,Engineering,False
+a836e364-0c15-415c-a65f-fd00cac2fa18,Ernestine Templeton,United Kingdom,HR,False
+a9455338-5d82-4b33-87f5-238cbdf6b16b,Dennis Jimenez,Ireland,Sales,False
+755ba9e7-63e1-4a61-8b2f-696370e184be,Charles Clifford,United Kingdom,IT,False
+0312b0aa-23ae-48c7-a4fb-02554e6ac47c,Tabatha Kennedy,Brazil,HR,False
+2db4f5ff-0856-463d-b902-1c35940955f8,Keri Miller,UK,Finance,False
+00ffb0d5-567e-4a12-8daf-32fad6d7992b,Caleb Lindsey,UK,ENG,True
+a9075bd8-8261-4c24-a7b9-621819938c36,Dorothy Lawrence,UK,ENG,False
+76e28caf-a047-436a-9c81-bc9b916c9446,Carmen Rivers,UK,ENG,False
+1e668b6e-ae5f-4082-a0d9-4ca737758b22,Armando Arias,Ireland,HR,False
+10819d69-5e5e-4bcf-82fe-88b908ff0133,Dennis Smith,Brazil,Sales,False
+51a14f8d-b0d6-46f9-826f-58ef29bb18ac,Charles Meehan,USA,Marketing,False
+3e156dde-95ac-4971-bfae-6d3c052bea4b,William Thorton,United Kingdom,IT,False
+7538bae6-5df1-46e9-8059-153aa4954041,Richard Aguilar,United Kingdom,Sales,False
+373e1597-6bae-4f38-8f81-ff1bb1640009,Isabelle Davidson,UK,IT,False
+39e9d318-7c17-47fb-bcdd-17e9f3f11989,Marvin Marshall,United Kingdom,Engineering,False
+b9a59e66-89c9-4833-809d-ce9da4e2a8b5,Florence Frezzo,Ireland,IT,False
+38ab0b72-f4e7-4eb8-bfbe-cce58a7eeae1,Cindy Rumore,USA,HR,False
+54b75ed8-26fa-4d37-8f04-d589625881e2,Kristin Kettl,UK,Marketing,True
+04089aa2-9c90-4301-81b1-82de05945040,Donald Cotman,Brazil,Sales,False
+0655fd7c-1721-4a18-aa07-72bbb2bf1ff2,Anthony Cherry,UK,HR,False
+2f37b233-f130-449a-8689-ec141c30209e,Shirley Johnson,UK,IT,True
+483a4544-a20a-4adc-aebe-d3a521827d2e,Charlie Washington,Brazil,Marketing,False
+b85c310b-a99a-4384-9be3-9bb4abdf0bb3,Anthony Saxon,UK,HR,False
+fe3bec8e-eb10-4ff2-8b80-f6ff73e9b982,Patty Bahner,Ireland,IT,False
+d90f3ab6-4de7-4734-90af-ee133be2b2a7,Lynette Flores,USA,HR,False
+90bef08d-5c77-4476-97e3-299c173ededc,Viola Black,UK,IT,False
+c09ca407-772a-4330-81c1-597b1c5f4991,Donald Draughn,Brazil,Engineering,False
+dc28a353-9a04-4702-9b78-5ec65d06638a,Shirley Hanson,Brazil,IT,False
+c963cd64-e627-4508-9332-3e32bccf7c86,Delores Aslanian,UK,IT,False
+6c953783-df58-45d2-93f2-5c9181164706,Randy Anderson,United Kingdom,HR,False
+b1ab64c3-2e2c-4943-832b-68478eb5fd04,Yolanda Hall,USA,HR,False
+241926c9-5a1d-40e4-b2b6-2cb92000181f,Rosemary Cocks,Brazil,HR,False
+9bb73191-b721-45d1-b522-a09af887a08c,Felecia Crozier,United Kingdom,IT,False
+94ff2ad5-7258-4a23-a0e9-f4af3d31c5d7,Christopher Steen,USA,IT,False
+2c60db8d-385b-421a-817f-50b71943b2d9,Josephina Cordero,UK,IT,False
+6855a612-da40-49c0-9a4b-4a83d8ec5b62,Mary Landes,USA,HR,True
+adde4a37-02bb-4940-84ed-2f9cc9f55d4d,Amanda Werner,USA,HR,False
+ef41db79-ccb8-4538-9256-d47cdd3b74fb,Jane Arbizo,Ireland,ENG,False
+738ed9ae-20c7-4b73-a499-adecf79aa035,Patricia Stephenson,UK,Marketing,False
+48226b8f-869e-49cd-81b9-8ff8bf61c079,Vincent Bell,USA,Marketing,False
+8e0bfca6-f651-4286-807e-ec21f6abc5a0,Diana Horowitz,UK,ENG,False
+1efed372-3af6-4ba4-897a-b03cd8f03042,Lois Medel,United Kingdom,Sales,False
+5091593b-25c6-4eda-9c75-7235106dbad6,Arline Hardy,Ireland,Engineering,False
+f366eb97-686a-47cd-88d7-717b3759878b,Charles Todd,UK,HR,False
+df209c52-af33-4c35-8991-763c87a439a9,Melissa Williams,UK,HR,False
+c78cd65e-0c61-41a7-b323-fe7c90b31d54,Robbie Hynes,USA,Finance,False
+2448100b-810b-45a2-b7fd-2ae68d658b6f,William Mcmanus,USA,Marketing,True
+fe46fb64-326b-49df-9ef4-752c44f70092,Marguerite Oakes,United Kingdom,Sales,False
+ee48d51a-c895-4a39-b26a-2ca2c615cef2,Vivian Tardy,UK,ENG,True
+d04836a2-ea92-47b6-a31f-fa87a6c214f2,Edna Lucero,USA,IT,False
+fdc3a692-91ba-4ebc-8ee9-84c195fdce85,Nathaniel Dunn,UK,Engineering,False
+fd91eeb9-f8f8-456a-98f7-dbe91996b7c6,Dan Ellis,United Kingdom,ENG,False
+5b78bcca-a180-4812-92db-4413310ebcd2,Derek Truitt,UK,ENG,False
+7ecf97f5-5696-452a-93c6-0c94b544a734,Lois Gunderson,UK,Sales,False
+14672285-d8e7-4fd0-b27b-fd227678d6f6,Felix Colman,United Kingdom,IT,False
+dceaef2f-60fb-4782-8cc9-5a297c957dad,Wanda Mccourt,UK,Engineering,False
+1842300c-57db-4fed-85f2-4edbd54921a6,Gary Weaver,Brazil,Marketing,False
+73c14118-8814-42af-bc8c-5664b3721373,Katie Jones,USA,ENG,False
+3a3311b9-8a6c-4894-a6be-3c5b01fae016,Marcus Macdonald,Ireland,HR,False
+4b268cb1-89ae-435d-8382-e2e09ba76b55,Connie Martin,USA,Engineering,False
+ceafec0e-dcb5-41b8-87c6-279463a568df,Andrew Foster,Ireland,Engineering,False
+3de8b486-5f47-420c-803d-dbfa2833d462,Philip Barnes,UK,Engineering,False
+0fac01e6-7002-4b7f-97c4-3e6fad5a29b1,Darlene Rowland,USA,Engineering,False
+801ac8cb-0210-4356-9bac-628f6db4c399,Elizabeth Robinson,Ireland,HR,False
+7bdf193f-7e09-4aaa-9fc3-2f82179f7039,Nilsa Nevels,United Kingdom,Marketing,False
+73343bf7-cc9a-43cb-b5c5-fcb8da52aed6,Jose Ross,Brazil,Engineering,False
+b90f9737-f039-4dfd-b793-72145eacec2a,Shirley Payne,UK,Finance,False
+7c719575-955f-4cef-9ff7-ca2a16a438b6,Esther Obrien,UK,Sales,False
+59088fcf-f21e-4b60-a319-a77c606f8fc3,Ann Ramos,Ireland,HR,False
+2981161b-9750-424d-ac4e-71ba3d6be358,Sandra Wilkinson,USA,Engineering,False
+4e8d07a0-0815-4fe1-8614-092f1ad56f85,Gary Bean,Ireland,ENG,False
+015a216d-02f8-41dd-a7d7-8ee8935edc47,David Rogers,Ireland,HR,False
+f99be16e-7e45-473b-aff5-c53b8bc5391f,Chris Lotz,UK,Finance,False
+48e2e831-857d-4a07-8f7f-e685539c4500,Ramon Collins,Ireland,HR,False
+c46536c1-066b-44d8-8a43-9614d57af1b3,Tim Lundmark,Ireland,IT,False
+a733dd84-470e-4f94-a19d-37efedc3d597,Lydia Hardy,Ireland,ENG,False
+3f2a6c79-f66d-4317-80bf-10a7d51cc776,Charles Hurrington,Ireland,Marketing,False
+8704fd57-7789-4f41-9164-4e26b960485c,Theresa Winbush,USA,Finance,False
+10e4a20f-42bf-481f-9b5a-2ac6242f4f7c,Christine Mcbride,Brazil,Sales,True
+f7c49e34-af84-42c1-b5a1-a49539ba571b,Carrie Cooper,USA,Sales,False
+f47e6f23-1f86-47ea-8c6c-d01352f7471c,Maria Duong,Ireland,ENG,False
+79ba5006-4ee2-4a38-a753-488842f0d1e2,Curtis Tracy,Brazil,HR,True
+da08ff11-3ee9-4636-98b8-ed35f0afc788,Edwin Robinson,Ireland,IT,False
+88a36368-0bbb-493e-8f23-dba086704294,Herbert Edwards,USA,Engineering,True
+61561332-2d54-48e5-80aa-b7b6dc5bfbc3,Irene Mccright,USA,HR,False
+0ef03860-69ef-410c-b040-913356092df7,Christine Mooney,USA,Finance,True
+048db80c-0957-4d4c-8c7f-ddf19754f9b4,Ethel Young,Ireland,ENG,False
+8f5068a3-1bfc-4629-ae15-0e11ac532d48,James Truocchio,USA,HR,False
+8155c397-0b62-4b6d-b81d-a3cd0ec843fc,Chris Rezac,USA,HR,False
+975bbed8-9a78-4b05-a361-04e0557a9013,Leroy Richardson,UK,IT,False
+b7570747-1c02-42a5-8ff0-0d89c2d134e6,Michael Turk,Brazil,Marketing,False
+95dfb7e2-5ebe-4e77-b046-f1e0f8a909ed,Monica Doyle,United Kingdom,HR,False
+bbde350a-ee47-49ef-af59-03d36c6670a6,Corina Bonner,United Kingdom,HR,False
+3884fd98-e0a3-487e-a8da-0be4e73b59e5,Kimberly Araujo,Ireland,HR,True
+d7c85ce4-4fba-42a3-a88a-7f4dab30f2a5,Clayton Siegel,United Kingdom,Sales,False
+43426ce5-52e3-42de-b9d9-6ac16f312027,Catherine Clancy,United Kingdom,Engineering,False
+38dd08be-9cda-46b3-8f9a-fbe8bd30965d,Cindy Wise,United Kingdom,Finance,False
+20c4b2e0-c3c1-4dd0-8035-504fe7a3f2ca,Dawn Lee,UK,IT,False
+6b8741a0-9583-49a3-9dfc-c997887cc7b2,Andrew Garrett,United Kingdom,Engineering,False
+f9948067-ebd8-4f6f-9ff3-6eada0105fc5,Theresa Few,USA,HR,True
+a62ac53f-4376-49bf-9e4f-82dba3af00a7,Kim Perry,United Kingdom,ENG,False
+439aca51-c65b-49f6-9671-b7ed932be2c8,Anthony Stephens,Brazil,HR,False
+b5785005-2d03-45d5-b303-22ea5c345136,Mary Hinrichs,UK,Engineering,False
+83759208-f811-4781-963a-f3947eb6d6d6,Carolyn Sutherland,UK,HR,False
+88957b21-660b-4a69-99c3-343f6a06b51b,Charles Wolff,USA,IT,False
+cdd3e63d-f9ba-4ebe-a0be-200258be6aa4,Aurelio Prater,Brazil,Engineering,False
+d62ad9d3-e765-4f0e-b62b-afaea476ddcb,Andrew Bailey,Brazil,Finance,True
+3e4b2972-03b6-4e90-b820-47b1923079f5,Charles Camerano,UK,Engineering,False
+f5696ddb-8885-4994-ae76-b8a7ded29f55,David Anderson,USA,ENG,True
+ff2e2635-4fd8-47bb-a523-65e2015d3118,Marilyn Dekker,Ireland,Engineering,False
+59e6f283-a72e-4442-b8d5-f9eb2132a9fc,Claire Tiefenauer,USA,ENG,False
+06c3f01f-1fd8-48cc-8dbb-e4cd405f0807,Dorris Brown,Ireland,Marketing,True
+7fa45e40-10b7-4f45-9c14-7b4138b249c2,Alberta Mahoney,Brazil,Finance,False
+92e6d35c-0367-4060-9d28-d5650a3c1db5,John Brown,United Kingdom,ENG,False
+a22816cc-65b3-430e-8b6c-2e760d1a5571,Ryan Reza,USA,Marketing,False
+0ec3062e-4028-4046-88b4-1f7229454ce9,Rachael Reed,United Kingdom,Marketing,True
+f676dedc-9902-4e84-9910-65e812fb91e4,Stephen Ramirez,UK,Finance,False
+72e59366-cacc-4d9d-b782-47baa9d4cad5,Glenda Playford,Brazil,Engineering,False
+d773a37b-0c29-4807-9651-a04d4155bfcf,Victor Hall,USA,HR,False
+2fe83f92-38b4-41df-8ac0-8dd585e5b90f,Lelia Nash,USA,Sales,False
+2d56eb0f-5f99-4833-aee9-f9976a0fec26,Michael Smith,UK,IT,False
+9da96bb1-fb98-4e0a-8fd1-03b97b331320,Michael Fuchs,United Kingdom,ENG,False
+eb4038c8-72da-4d91-98b5-259bf800c94e,Avery Watson,Ireland,Finance,False
+864b0736-3160-442b-b28d-32cbc92b814b,Dean Dillon,United Kingdom,Engineering,False
+402ef3d8-fc3a-48ce-8f80-3eb53d9d2cc6,Regina Pickens,UK,Finance,False
+6ddf22fd-fbc2-4a67-bb23-94ca57892bfd,Andrew Mcknight,Ireland,Marketing,False
+974ba367-141e-4cde-8a28-09142e9e4e16,John Roth,USA,HR,False
+56818c42-4249-49b1-a17d-697b73266b18,Mildred Russell,USA,HR,False
+ad274a5c-591e-4f95-810a-8917e8f1b1e1,Janice Cordero,United Kingdom,ENG,False
+1db1fac6-4076-4b98-900d-b369be3bd6cd,Steven Mello,UK,IT,True
+5d534586-b52b-4b4b-b0bc-6e57d676d3b8,Joseph Young,UK,Finance,False
+77b239bf-4645-45aa-9b8a-21d22638963e,Inez Ramey,USA,Finance,False
+519973f5-08aa-4aa4-b69a-5c7dc577fc8e,Evan Stupka,Ireland,Sales,False
+684caf03-5a16-46c3-bc9c-d3e007ccc202,Elizabeth Hopson,United Kingdom,Finance,False
+248e3788-9906-4387-b815-2c18ae50cf32,Elizabeth Sparrow,Ireland,HR,False
+575bc262-755b-43c3-bcf6-4f0e42bb0acc,Timothy Meckes,Ireland,Marketing,False
+3a0f4486-1c13-4302-b4c2-6257dca1119b,John Horning,United Kingdom,ENG,False
+6a263c0f-4383-4777-8308-fd4d27dc9cb7,Leon Lewis,Ireland,Finance,True
+91b94ea1-1d8f-40df-93c7-60a1ed47786f,Arthur Kendrick,Ireland,ENG,False
+7c9fd1a9-1d77-498b-9ad7-3099322d78f7,John Olson,UK,Finance,False
+755e0578-6502-4dac-9454-7864522f9851,John Sedotal,Brazil,IT,False
+b1ca8acc-5344-4fc5-8fbf-2acce2cba5e5,Frances Cooper,USA,Engineering,False
+029d1cb9-dcd7-430a-859b-63b588f8fab2,Veronica Driggers,USA,HR,True
+a72c1d2d-6237-477a-9c01-56663f758756,Larry Cloke,UK,Marketing,False
+d01da746-476b-453d-a816-a39e60593990,Woodrow Lee,UK,Marketing,False
+28ef55b9-9ed4-4d5d-a849-1dac5ae46960,William Mccormick,Brazil,Marketing,False
+9d8a9706-cc3e-40d2-b85a-81e6512b4d03,Michael Johns,Brazil,Finance,False
+c4a91417-819a-45fe-9e56-52dc225142f1,Tonya Polito,Ireland,Sales,False
+fd62a43b-509f-441a-9032-163ab3afe6cd,Mary Carpenter,USA,IT,False
+3c7937f2-5970-4afd-bb3e-b44ac0ef85d2,Mary Overholt,USA,Marketing,False
+707a07a0-41be-4960-af43-145c09de6646,Lyle Blatt,United Kingdom,Finance,False
+be311d79-e2ff-4b97-8268-f1e05c2eef0e,Emmett Hopkins,Brazil,Marketing,False
+8f67739c-7e9c-44ea-af88-cb1ab0b36c9a,Dolly Hinton,UK,Finance,True
+e7b3b4e9-df0f-454c-b45a-7ac8a2ccd1ab,Norah Barton,USA,Engineering,False
+bbbfa306-f002-4934-8107-22ce16d8f8b8,Kenneth Maestas,United Kingdom,IT,False
+36329fa2-6f59-40a3-902a-7f669b6b2e23,David Johnson,USA,Sales,False
+34ba2d80-199d-4194-a0c9-31dde668653c,April Acker,Brazil,Engineering,False
+c12287d1-a8cf-44b9-ba01-e8770a8f0752,Ann Henderson,United Kingdom,IT,False
+a5577978-91ef-40db-be20-e277ce357955,Kent Dini,UK,Sales,False
+3232fbe5-fea0-4fd8-ab46-057f7545cafa,Jeanette Hughes,USA,Engineering,False
+e992fb33-385b-4ec3-8c73-903e61741c59,Valerie Devita,USA,Marketing,False
+b939371b-337e-449a-81c7-05e0b9728f18,Katherine Binder,Ireland,IT,False
+d5d528a6-b444-4570-a07b-c452e0278222,Alvin Gallegos,UK,Marketing,False
+eb09462d-3d0b-427e-8745-da073a9f58b2,James Caruana,Brazil,Sales,False
+7e71ba13-1fc0-44f6-b7ed-447df34f51d3,George Bell,UK,Sales,False
+1a899041-b8a7-44dc-9a8a-67ebadd6e8f3,Maria Bock,USA,Engineering,False
+e1bf206d-0e6c-4f6a-90cc-4afe5200c9ce,Danny Anderson,Brazil,HR,True
+0d14ad2f-9923-45b7-962b-8bbd3281b8f5,Mary Samuel,USA,HR,True
+681fd804-3f4d-47ad-8c86-674213e70258,Armando Moore,United Kingdom,Marketing,False
+62e8bd94-37c4-4d02-8bd0-eb7ab031d3cd,James Vicario,United Kingdom,Marketing,False
+f3a5f088-cd4f-46f0-8f05-87d19f2dd5e6,Harold Coleman,UK,IT,True
+2f5f565b-1b29-4db9-a7aa-3b2a6f821e3d,Louis Corriveau,USA,Marketing,False
+e0577157-9c99-43c5-8b3a-29666d4b42a6,Diane Turner,United Kingdom,Sales,False
+e2e63686-c7b4-415b-ac49-43fff4b41df6,Paul Schreckengost,Brazil,Marketing,False
+8857906d-a992-4c63-96d3-0d8fc3b8ab2e,Marjorie Mattson,UK,Engineering,False
+c9d738d8-b79c-485e-92cb-c994daeeb9ad,Kelli Fenstermacher,USA,HR,False
+15446553-7e50-4da4-bd44-c0f9ce184b92,Ricardo Henson,UK,Marketing,False
+985f3662-f673-4f17-ab47-9ce999aa2d48,Paul Matthews,UK,ENG,False
+c7983062-aa8c-4fc5-bb2a-aef8ade59ffe,Sheree Brashears,Ireland,HR,False
+c5ca3473-b32f-4c0e-a697-db094a899797,Kristen Rottenberg,USA,IT,False
+57f81859-58a5-489d-877a-d0bc5a17727c,James Porter,UK,Marketing,True
+622a8ef0-e131-4383-8049-c950dfb50f61,Annette Evensen,United Kingdom,Engineering,True
+8d8188e9-a56a-4502-bcdd-5c767aea2334,Ester Gleason,USA,Marketing,False
+c8222982-6c6d-4fac-bdd7-45dfe0686413,Daniel Theodore,UK,ENG,False
+b61f5234-519c-4e17-a24c-bc1e9c9ea05d,Mark Portis,United Kingdom,Marketing,False
+d9470d57-b492-4fb4-9c5f-3642b1b37ec5,Iris Caravello,USA,Finance,False
+49b142de-6c85-4dc6-80a5-a0f065eb4cc5,Thomas Johnson,Ireland,ENG,False
+474021e5-e263-44fb-ae50-c34cc5c6d58d,Philip Johnston,Brazil,HR,False
+e7f3ed89-d133-433f-bd7b-16a69d3d4114,William Moore,UK,Engineering,False
+08572f7a-39e2-4ded-9ac5-d0f7ea41cd12,Jane Conner,USA,Finance,True
+4adc4e76-c5d7-454c-bfd6-cb8154b412cd,Timothy Goering,Ireland,ENG,False
+de888b3c-db54-45a1-974c-1b6b3ba1eea4,Charlotte Abdul,Ireland,Sales,False
+c6f89b48-6e0f-4da3-8e64-74fa1f700bf6,Sandra Anderson,United Kingdom,Sales,False
+ee4f211d-4506-4f63-bef8-992631ceb1f1,Ralph Mcgee,USA,Engineering,False
+c46bd627-93ef-46fd-8c9c-c02d9e3de548,Virginia Mazzotta,United Kingdom,Marketing,False
+a673ebd4-eeac-4d62-bdf0-a95a1a2cbf4c,Elda Conyer,Ireland,Engineering,False
+cb506c85-1145-4d5d-aa13-5cdb2b836e70,Julie Padilla,UK,Engineering,False
+b879c886-fab4-4e77-8df2-dce7f6584c2d,Melissa Smith,USA,IT,False
+2519c082-c0b8-4441-8699-98ebeb042fa5,Katherine Depaul,Brazil,IT,False
+9e783586-4a15-429d-95d3-926f9103e99d,Joseph Kadi,United Kingdom,ENG,True
+e42b63bc-2f11-4c0e-9de5-2eca1f6e8c8e,Caroline Wilson,USA,Marketing,False
+1301109f-4d8f-469b-ab27-2f155546612c,Brian Broe,USA,IT,False
+6d2bc7e4-6a23-4002-97d7-fee6c1db5fcd,Ted Young,USA,IT,False
+b229b6fa-1fe6-4aee-aeda-c14076166bce,Robert Jones,UK,ENG,False
+52260510-71be-497c-8597-b37fae7f0200,Leslie Espinosa,Ireland,ENG,False
+64671467-af21-40a3-a7b1-c9a844f6f3e8,Carmen Kelsheimer,United Kingdom,HR,False
+93b02ecc-59f4-48f5-b84c-f7826a6d57a8,Sarah Lopez,Ireland,Finance,False
+b9a50028-dc5f-47bf-8284-779308766ab9,Malcolm Halsey,United Kingdom,Finance,False
+0777a2f9-2a52-4a30-8da4-61bb9532a3c0,Ernest Miller,Brazil,ENG,False
+9ccae903-304c-489e-bd5d-d374bc8426d1,Jeff Pucci,Brazil,Marketing,False
+67854077-37e3-4696-989e-5d10f33578a6,Casey Doran,Brazil,Finance,False
+c992e45e-feb0-4dbe-92aa-e528ebd6df85,William Gonzales,Brazil,Marketing,False
+efc2db9b-c220-4e2c-9d37-c47994b0f0ba,Alan Bullock,Brazil,Engineering,False
+d5a1d36d-e9ad-479b-8a0b-7c5666869a4b,Catherine Dillow,United Kingdom,HR,False
+1c995f48-0c6f-4531-9b05-ebc77bf3d580,Janet Chevrette,United Kingdom,IT,False
+37464f17-f3a7-4a18-8ce6-86ed0484ebb8,Blaine Adams,Ireland,Finance,False
+8d6384b7-fe87-4719-85f7-ea8247bfaa8f,Victoria Osher,Brazil,Sales,False
+52719689-41e1-4b80-9236-e59ee7f2c161,Dorothy Donahue,UK,Engineering,False
+0d09ab70-f8cd-4ea4-a07d-1025f0e8cd93,Jo Halcomb,Brazil,HR,False
+22168d00-3c85-463f-8ee5-16658afc376e,Christina Loh,Brazil,Marketing,False
+33c99b9b-7023-4f19-b761-ff9eb5e12c01,Ana Cain,United Kingdom,Engineering,False
+892903ba-fe33-4bf5-b15f-792ca87807ad,Jose Dery,USA,Marketing,False
+974ff181-d0e6-4d16-879a-0571883e499d,John Rodriguez,United Kingdom,Marketing,False
+1c309170-2f03-4c29-a5d3-0f3c57f56673,Carol Nunez,UK,IT,False
+1af17526-002d-4639-8757-b10da4972c93,Lawrence Henderson,United Kingdom,ENG,False
+4215004d-41ca-4aa0-9488-eb425ab571f4,George Darnell,USA,Sales,False
+c9de5d41-9d2d-43d3-a64e-df489cf91b80,Jamie Jolley,USA,HR,False
+ef3ef6b7-bc01-498c-986a-85f9d0e68edc,Sandra Rhoda,USA,Engineering,False
+e99f3055-0757-4102-ad40-37f94ecf25e8,Edward Helder,Ireland,Finance,False
+bfc616e9-f48e-410e-aead-287592543490,Ariana Kaylor,United Kingdom,Finance,False
+3111235d-aea6-42d3-a315-43691f8417ee,Terry Oliver,Brazil,Sales,False
+32ad9c3e-d356-456d-87c4-881292d083b9,Paula Wright,Brazil,Finance,True
+0f01d96d-0744-4334-9af6-72a8c849d5ab,Louis Ramsey,United Kingdom,ENG,False
+546d33f7-17b9-4a9b-87a7-968f75cd71f5,Elsie Wilson,USA,ENG,False
+c0d93a7f-feb8-4193-a329-f6c40f17e5aa,Clara Mann,Brazil,Sales,False
+79b40620-bffc-4e82-bed6-cad633b5b49a,Robert Pusey,Brazil,Finance,False
+ebf82184-d180-4e32-a32a-6646b5041300,Susanna Simeone,Brazil,Engineering,False
+857bbcaf-c9e7-477a-b5b4-359033ede3a4,Earl Dreesman,Ireland,HR,False
+f7cb129b-bbac-4d2a-ba2f-8ffe1b94da0d,Justin Kelley,United Kingdom,Sales,False
+b17a4240-f01f-493d-8385-7d0ac81b1fed,Linda Hayhurst,United Kingdom,Marketing,False
+135a9e27-45d3-4a1c-a8eb-52b13650a29e,Elaine Hurst,Brazil,Engineering,True
+23ef5726-92e7-4619-a406-71184ac40b4b,Glenn Gidney,United Kingdom,Engineering,True
+3b5c4009-8da6-4441-9318-c40028f2e781,Richard Hedgpeth,Brazil,Sales,False
+e5f929f3-6d8c-4d4d-b619-fe803fde9bc9,Cindy Melby,USA,Marketing,True
+bd1a6a72-c888-4f92-aaa7-53429733cd8b,Frank Rudge,United Kingdom,Finance,False
+2ec3c8bf-4818-4f35-8a16-7aec60b18b19,Robert Chase,United Kingdom,Finance,False
+cda01113-1382-4ddf-96a1-19c305da42a9,Denise Fellman,Brazil,HR,False
+ce378534-26cc-4ffd-bc90-1ce0f4c3ac79,Angela Hjort,UK,Finance,False
+51759f3d-dd5d-4072-ad19-2c09c537e65a,Iris Henry,Brazil,HR,True
+51d371ca-a682-4e1a-8d81-0a56148c1fe9,Ronald Berry,United Kingdom,Finance,False
+f7731214-927b-4962-8fe7-6a4a6487c053,Cinderella Davis,Ireland,Finance,False
+cfce799b-ae7d-41ff-9e23-03bc9944345c,Beatrice Watson,Brazil,Finance,False
+d80794b0-a065-4441-b2b3-674075485064,Richard Miller,United Kingdom,Sales,False
+8603959d-7976-48d4-90f7-3c3328e9ef62,Jared Miller,UK,Finance,False
+2b0ca12a-a06f-479d-8831-2791d181bd84,Ann Pelc,USA,Finance,False
+3a96acd3-9c24-44b4-8807-563f8eea834a,Kenneth Bartko,United Kingdom,Engineering,False
+20e7edde-b981-4ac6-b396-7171c7ba0ed5,Alex Moor,United Kingdom,Marketing,False
+b141f3b6-690b-4149-ae36-e2efadea7dab,Bobby Rodriguez,United Kingdom,ENG,True
+b92c977b-86d1-41a1-9efb-c9e5a2b27fe3,Maria Peterson,United Kingdom,Sales,False
+2ce0e905-e3a4-4238-8406-2a8fb366a796,Ben Moore,Ireland,HR,False
+e8e74a61-ad92-4f45-ae46-7a7a6e446040,Ginger Haring,USA,IT,False
+5e544d80-fdb5-4622-8211-b1476405c9b1,Summer Hughes,USA,Finance,False
+d26e15f9-1f19-496e-b728-cef227f3e07a,Robert Wallace,United Kingdom,ENG,False
+52bef5f1-c16b-46d5-b9de-136e7ba2fe9a,Shirley Pitts,Ireland,ENG,False
+7bcdc561-1c41-44db-b7fa-b252d9e55fd9,Erica Lutz,Ireland,HR,False
+19ace850-b6f1-4d9c-9576-59e3cd4229c0,Danielle Cook,Brazil,ENG,False
+1a6bb591-f132-4eac-839b-471902ddb671,Alice Ocasio,Brazil,Finance,False
+19cb715f-a2c8-47b6-aa39-3d45a3127a50,John Carlone,Ireland,HR,False
+926edb65-d0cd-455b-aa5b-434c3d2685f8,Thomas Clankscales,United Kingdom,Marketing,False
+ef4c5f6a-8eae-48f3-869e-eb93103ce9a2,Heather Williams,Ireland,Marketing,False
+9c8da449-441a-41bc-8274-1395c10fff24,John Harvey,UK,HR,False
+f25dec7c-e049-43c7-a630-d0002f9b8fbb,Jeff Surratt,United Kingdom,HR,False
+a6eda9aa-a767-454a-8b15-9286264697d0,Dwayne Jones,Brazil,HR,False
+a0457a20-cb67-4a03-b95d-6011928c8e38,Michael Rottinghaus,United Kingdom,Marketing,False
+50c325a1-e810-4a3b-acab-1611cda5e4b1,Phillip Andrews,USA,Finance,False
+70c668d0-c68e-4c58-a864-946d45a46ef9,John Peterson,Ireland,Marketing,False
+52305dd3-be12-4d29-ae4c-7bbba1211d91,Jimmy Beasley,United Kingdom,Engineering,False
+0210f4a8-df46-4874-8424-4cc2c7292e7d,John Cannon,UK,HR,False
+9fb0c7b1-9b72-419a-87d9-55dd6b9940d0,Charmaine Chamberlain,Brazil,Marketing,False
+d15470ef-4b59-4d08-9f77-e0745b95e270,Daisy Calhoun,USA,IT,False
+e8ca5b51-af2d-4c11-9cf0-7c1ef2205a25,Donna Woolwine,USA,ENG,False
+443a910c-7386-488b-b0ed-558b803b8982,Cody Ward,Brazil,Engineering,True
+9d9313dd-e06b-471e-b7e4-046d72bc09a7,Janice Janczewski,UK,Sales,False
+3a22e591-69f5-4fe0-944d-9110e19a8467,Susan Miller,Ireland,IT,False
+a17fdcb0-4a80-4c6d-82fb-1dbfc96bbf53,Phillip Otwell,Ireland,Engineering,False
+3819882a-8a58-4287-a915-fb3f206fe46c,Sonja Lafleur,Ireland,Finance,False
+d6ba2178-999e-430f-8aed-ed2f0f3addb9,Daniel Lunn,Brazil,ENG,False
